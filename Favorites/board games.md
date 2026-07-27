@@ -1,5 +1,6 @@
 - hanabi
 - Spy Alley
+- Play Nine
 - pandemic
 - settlers of catan
 - codenames
