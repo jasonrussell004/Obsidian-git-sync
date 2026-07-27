@@ -1,0 +1,42 @@
+---
+tags:
+---
+- [ ] Velocicoaster x4
+- [ ] Hagrid's x2
+- [ ] Ko'okiri body plunge (drop chamber) x3
+- [ ] Hulk x4
+- [ ] Rip ride rockit x2
+- [ ] Gringotts x1
+- [ ] Dudley do x1
+- [ ] Krakatau aqua coaster x3
+- [ ] Forbidden journey x2
+- [ ] Honu raft ride x2
+- [ ] Mummy x1
+- [ ] Jimmy Fallon x1
+- [ ] Bourne Stuntacular x1
+- [ ] Ohyah & Ohno body slides x2
+- [ ] Punga racers 4 body slides x5
+- [ ] Kala & Tai Nui Serpentine body slides (drop chamber) x2
+- [ ] TeAwa the fearless river (fast lazy river no tubes)
+- [ ] Doom drop x3
+- [ ] Simpsons x1
+- [ ] Animal show x1
+- [ ] Tanisha tube slides x3
+- [ ] MIB x1
+- [ ] Jurassic Park: River Adventure x1
+- [ ] Despicable me x1
+- [ ] Puihi family raft ride x1
+- [ ] ika Moana raft ride x1
+- [ ] Popeye x1
+- [ ] Maku family raft ride x1
+- [ ] Grinchmas x1
+- [ ] ET x1
+- [ ] Fast and furious x1
+- [ ] King Kong x1
+- [ ] Shrek x1
+- [ ] Spider man x1
+- [ ] Lazy river
+- [ ] Unique land rides: 20
+- [ ] Unique rides: 35
+- [ ] Total land rides: 31
+- [ ] Total rides: 59

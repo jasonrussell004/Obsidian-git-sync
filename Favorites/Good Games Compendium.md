@@ -1,0 +1,259 @@
+Wishlist
+- Cozy grove
+- Islanders
+- Pacific drive
+- Immortality
+- Unpacking
+- Flintlock
+- Starfield
+- Ark 2
+- Alters
+- Arctic awakening 
+- Dune spice wars
+- Abyssals
+- Falling frontier 
+- Nivalis
+- Deliver us mars sep 27
+- The invincible
+- Cocoon
+- Mc legends
+- Light-year frontier
+
+Played List
+- Board Games
+- Codenames
+- Xbox One
+- minecraft
+- GTA V
+- Inside
+- battlefront 1/2 new
+- Forza horizon 2/4/5
+- Darwin Project
+- madden 16
+- abzu
+- fifa 17
+- limbo
+- Lonely Mountains: Downhill
+- superhot
+- fortnite
+- Assassin's Creed: 2/Black Flag/Origin/Odyssey
+- Deliver Us The Moon
+- Stela
+- Ryse: Son of Rome
+- Surviving Mars
+- Mars Horizon
+- Etherborn
+- Zoo Tycoon
+- Planetbase
+- Sea of Thieves
+- Transference
+- Goat Simulator
+- 7 Days to Die
+- Never Alone
+- 39 Days to Mars
+- The Station
+- Laserlife
+- Moons of Madness
+- Vigor
+- PC
+- Death Stranding
+- The Falconeer
+- Golf with Friends
+- Until Dawn
+- Man of Medan
+- Lost Hope
+- House of Ashes
+- The Devil in Me
+- The Long Dark
+- Twelve Minutes
+- Alien: Isolation
+- Lake
+- superliminal
+- a way out
+- slime rancher
+- Star Wars: Squadrons
+- The turing test
+- Star Wars Jedi: Fallen Order
+- SnowRunner
+- Watch Dogs 1/2
+- Dead by daylight
+- Crab Game
+- Tomb raider series
+- Hitman series
+- Bridge Constructor Portal
+- prey
+- borderlands 2/3
+- Firewatch
+- Fall Guys
+- Overcooked 1/2
+- Astroneer
+- No Man's Sky
+- kerbal space program
+- Raft
+- Control
+- Visage
+- Subnautica 1/2
+- rocket league
+- CS:GO
+- battlefield 1
+- The Forgotten City
+- a plague tale: innocence
+- Outer Worlds
+- Outer Wilds
+- Civ 5/6
+- Cities: Skylines
+- Steep
+- Web/old pc
+- addicting games
+- sims
+- coolmathgames
+- Webkinz
+- rollercoaster tycoon
+- monopoly
+- Plants vs Zombies
+- life
+- geoguessr
+- club penguin
+- barbie
+- Tomodachi Life
+- Poptropica
+- duck life
+- put put travels through time
+- Mobile
+- pocket monster game???
+- pokemon go
+- Okay?
+- Rider
+- Rocket Soccer Derby
+- Slidejoy
+- Swagbucks
+- Tank Hero
+- Wiki game
+- Ticket to Ride
+- Timehop
+- Tiny rails
+- Tiny Space program
+- two dots
+- sky burger
+- wipeout 2
+- achikaps
+- armory & machine
+- bit city
+- Smash Hit
+- Space Agency
+- Spaceflight Simulator
+- Stick Hero
+- Suburbia
+- Orbit
+- Pandemic
+- Paper.io
+- Slither.io
+- Agar.io
+- Poptropica
+- Risk
+- Dragonvale
+- Egg, Inc.
+- Flight Pilot Simulator 3D
+- Golfinity
+- Heads up
+- Idle Universe
+- Kahoot
+- Ketchapp
+- Lego star wars 1/2/3
+- Lemonade stand
+- Uno
+- HQ
+- Hobbit
+- Temple Run
+- Rocket League Side Swipe
+- Crossy Road
+- Flappy Bird
+- Pocket Trains
+- Mars Miner
+- Tiny Tower
+- Head Soccer
+- Minecraft
+- Words with Friends
+- Monument Valley 1/2
+- PES
+- smashy road: most wanted
+- Hill climb racing
+- 270 to Win
+- A Quiet Night (Ryan Miles)
+- 99 Rockets
+- Adventure Capitalist
+- Akinator
+- Angry Birds
+- Atomas
+- Ballz
+- Battle Golf
+- Polytopia
+- Beat the boss
+- Bike race
+- Paper toss
+- Board Kings
+- Capitalism
+- Archero
+- CATS
+- 2048
+- Hearthstone
+- Real Racing 3
+- Subterfuge
+- Lifeline
+- Alto's Adventure
+- plague inc
+- trivia crack
+- simple rockets
+- Nintendo DS
+- pokemon sapphire/pearl/heartgold/leafgreen/emerald/black
+- nintendogs
+- Carnival minigames
+- PS3
+- lego batman
+- little big planet
+- need for speed most wanted/hot pursuit
+- Wii
+- super mario world
+- Mario super sluggers
+- Rayman Raving Rabbids
+- need for speed carbon
+- super mario galaxy 1/2
+- New Super Mario Bros.
+- Deal or No Deal
+- Mariokart
+- Wii Play
+- Mario Strikers Charged
+- lego rock band
+- Virtua Tennis 2009
+- Super Monkey Ball Banana Blitz
+- wii sports
+- Mario & Sonic at the Olympic Winter Games (Vancouver 2010)
+- wii sports resort
+- legend of zelda: a link to the past
+- Carnival minigolf
+- fifa 09/11
+- madden 07/11
+- ncaa football 09
+- deca sports 1/2
+- Rampage: Total Destruction
+- mario party 8
+- PS2
+- Lego Hobbit
+- Thrillville
+- galaga
+- ford racing 2
+- lego harry potter
+- Space Chimps
+- SpongeBob SquarePants: Battle for Bikini Bottom
+- nhl
+- frogger
+- NCAA football 10
+- pacman
+- dig dug
+- battlefront 1/2 og
+- the bigs 1/2
+- NASCAR: Thunder 2004
+- MX vs. ATV Unleashed
+- High School Musical: Sing It!
+- just dance 1/2
+- Karaoke Revolution Volume 2

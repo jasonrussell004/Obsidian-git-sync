@@ -1,0 +1,392 @@
+- TV shows to watch
+	- Star trek next gen
+	- Person of interest 
+	- Loki
+	- 12 Monkeys
+	- Hijack
+	- Silo
+	- Andor
+	- Invasion
+	- The man in the high Castle
+	- Picard
+	- The expanse
+	- the boys
+	- Fallout
+	- mr robot
+	- breaking bad
+	- Dark matter (2015) or (2024)
+	- Lost in Space s2
+	- Squid Games s2
+- Xmas
+	- Falling for Christmas 
+	- 8 bit christmas
+- Movies to watch
+	- Imperium
+	- Murderbot
+	- Severance
+	- Andor
+	- Gone girl
+	- Sorry to bother you 
+	- End of watch
+	- Super Troopers 
+	- Elevation
+	- Naked gun
+	- Gone girl
+	- Regretting you
+	- September 5
+	- Don Jon
+	- The Abyss
+	- 1917
+	- Thirteen lives 
+	- another earth
+	- The nevernight connection
+	- Love
+	- The Fountain 
+	- 2067
+	- IO
+	- Good night oppy
+	- The Midnight Sky
+	- Mother/Android
+	- Mad Max: Fury Road 
+	- Lost city of Z
+	- Project Almanac
+	- Chaos Walking 
+	- Jackass forever
+	- 6:45
+	- Marry me
+	- Horrible Bosses 2
+	- LOTR
+	- saving private ryan
+	- 2001: A Space Odyssey 
+	- Jason Bourne
+	- The amateur
+	- The Internship
+
+- 10+
+	- Interstellar
+	- Inception
+	- The Martian
+	- For all mankind 
+- 10
+	- Obsession
+	- PBS Nova: The Farthest 
+	- 3 body problem
+	- Harry Potter series
+	- Suite Life on Deck
+	- Spongebob
+	- South Park
+	- Apollo 13
+	- Ender's Game
+	- Spider-Man No way home
+	- Tropic Thunder
+	- October Sky 
+	- Step Brothers
+	- Oppenheimer
+	- Project Hail Mary
+- 9
+	- The Office
+	- Spiderman: spiderverse
+	- Talladega Nights: The Ballad of Ricky Bobby
+	- In Time 
+	- The 100
+	- Edge of Tomorrow
+	- Apollo 11
+	- Up
+	- Tron: Legacy
+	- Star Wars series
+	- Elf
+	- Avatar
+	- Avatar 2 
+	- Drake and Josh
+	- Guardians of Galaxy series
+	- Amazing Spiderman
+	- Tenet
+	- Avatar Airbender
+	- Mission Impossible 3+
+	- Top Gun: Maverick 
+	- A Beautiful Mind
+	- Star Trek series
+	- Dune
+	- Good Will Hunting
+	- The Odyssey
+- 8
+	- First Man
+	- 21
+	- Dumb money 
+	- Valerian and the City of a Thousand Planets
+	- The wild robot
+	- Mickey 17
+	- Adjustment bureau
+	- Whiplash
+	- Orville
+	- Guardians of the Galaxy Vol. 3
+	- The Hungover Games 
+	- Passengers 8
+	- Life 8
+	- Greenland
+	- I am Legend 8
+	- Napoleon Dynamite 8
+	- Spiderman into Spiderverse 8
+	- Truman Show 8
+	- Social Network
+	- I, Robot 8
+	- World War Z 8
+	- Kung Fu Panda
+	- Captian Phillips 8
+	- Snowden 
+	- Hunger Games Series 8
+	- iCarly 8
+	- Batman series 8
+	- Kingsman series 8
+	- Hidden Figures 8
+	- Shooter
+	- Black Mirror (USS Callister)
+	- The Dictator
+	- War games
+	- Plane
+	- A man called otto
+	- Mr Nobody 
+	- Hacksaw Ridge 
+	- Mean Girls 9
+	- Source Code 8
+	- 7500 8
+	- Don't Look Up 8
+	- Ford vs Ferrari
+	- Blades of Glory
+- 7
+	- Brothers (2009)
+	- The queens gambit
+	- The gorge
+	- Hitchhiker's guide to the Galaxy
+	- The happening
+	- Only the Brave
+	- Gran Turismo
+	- Starship Troopers 
+	- Wonder Woman
+	- Contact
+	- Nope
+	- A Quiet Place 2
+	- A Brilliant Young Mind
+	- Spirited 
+	- Everything everywhere all at once
+	- The Batman
+	- Kindom of the planet of the apes
+	- Maze Runner series 7
+	- A Dog's Purpose/Journey 7
+	- Fantastic 4 7
+	- Planet of the Apes series 7
+	- Phineas and Ferb 7
+	- The Prestige 7
+	- McFarland, USA 
+	- Great Gatsby 7
+	- Blended 7
+	- Jumanji 7
+	- Pitch Perfect series 7
+	- Total Recall 7
+	- Upgrade 7
+	- Moon
+	- Jumper 7
+	- Zombieland series 7
+	- Pacific Rim 7
+	- Looper 7
+	- Dr. Strange 7
+	- We're the Millers 7
+	- Super 8 7
+	- Back to the Future 7
+	- Old
+	- Gifted
+	- Ocean's 11-13
+	- WALL-E
+	- Contagion
+- 6
+	- The last duel
+	- Mad Max: Furiosa
+	- Mad Max: Fury Road
+	- A Walk to Remember
+	- Ballerina
+	- The menu
+	- Gattaca
+	- The Change-Up
+	- Catch me if you can
+	- Superhero Movie
+	- resident alien
+	- Adam project
+	- Ambulance 
+	- Foundation
+	- Prey
+	- Memento
+	- Crazy Rich Asians 6
+	- Europa Report
+	- Dog
+	- Murder on the Orient Express
+	- Archive
+	- Morbius
+	- Arrival 6
+	- Self/less 
+	- Big Hero 6
+	- Baby Driver 6
+	- Wolf of Wall Street 6
+	- Xmen series 6
+	- John Wick series 6
+	- Lego Movie 6
+	- James Bond series 6
+	- Eighth Grade 6
+	- Easy A 6
+	- Travelers 6
+	- Alien series 6
+	- Everest 6
+	- The Upside 6
+	- Bedtime Stories 6
+	- The Accountant 6
+	- Rocket Science 6
+	- 300 6
+	- Blade Runner 2049
+	- Prometheus
+	- Detective Pikachu 6
+	- The Internship 6
+	- Free Guy 6
+	- Frozen (horror)
+	- The Perks of Being a Wallflower
+	- Dead Poets Society 
+	- Love and monsters
+	- Scott Pilgrim
+	- Suicide Squad series
+	- After Earth
+	- Chronicle
+	- Game day
+	- Game Night
+	- More than a game
+	- 10 Things I Hate About You
+	- Silver Lining Playbook
+- 5
+	- Tron 5
+	- Sheep Detective
+	- Nerve
+	- Red eye
+	- Thunderbolts
+	- Sinners
+	- Dunkirk
+	- Accountant 2
+	- Not another teen movie
+	- T.I.M.
+	- Uncut gems
+	- The signal
+	- Eternals
+	- The midnight sky
+	- Downsizing 
+	- Don't worry Darling 
+	- Moonshot
+	- War of the worlds
+	- Deep water 
+	- Requiem for a Dream 
+	- Tracers
+	- 2012
+	- Rudy
+	- Independence Day series
+	- Escape Room 2 5
+	- Jupiter Ascending
+	- Space between Us 5
+	- 50 first dates 5
+	- Just Go with It 5
+	- Age of Adaline 5
+	- Nope
+	- Reminiscence
+	- Hangover series 5
+	- Red notice
+	- Upside Down 
+	- Deepwater Horizon
+	- Happy feet
+	- Blade Runner 2049
+	- Snowpiercer
+	- The cube
+	- Fly me to the moon
+	- Voicemails for Isabelle 
+- 4
+	- 65
+	- Red Dawn (2012)
+	- Happy Gilmore 2
+	- The drama
+	- Eden
+	- Blind dating
+	- Superfast!
+	- No time to die
+	- Despicable Me rise of gru
+	- Spiderhead
+	- Battleship
+	- Goodbye World
+	- Eagle Eye
+	- Tag
+	- Transcendence
+	- Underwater
+	- Mortal Engines
+	- Harry Potter 20th anniversary
+	- Death on the Nile
+	- Open House 4
+	- Aquaman 4
+	- Game Night 4
+	- The Big Short 
+	- Let It Snow 4
+	- To All the Boys I've Loved Before 4
+	- Noelle 4
+	- The Lazarus Effect 4
+	- Gemini Man
+	- Fall
+	- The menu
+	- The rig
+	- Black swan
+	- Red Planet 
+- 3
+	- Due date
+	- Materialists 
+	- Chaos Walking
+	- Balls of Fury
+	- Deep water (2026)
+	- Bliss
+	- Fountain of Youth
+	- Warfare (2025)
+	- M3gan
+	- M3gan 2
+	- Hit man
+	- Downhill
+	- Cowboys & Aliens 
+	- Solaris 3
+	- A Teacher 3
+	- Annihilation 3
+	- Sunshine 3
+	- Matchmaker's Playbook 3
+	- Happy Death Day 3
+	- Table 19 3
+	- The Voyeurs 3
+	- Thor: Love and Thunder
+	- Z for Zachariah
+	- Beerfest
+	- The drop
+- 2
+	- The aviator
+	- Office romance
+	- Lilo & Stitch 
+	- Captain America: brave New world
+	- Garden State
+	- Angry Birds series 2
+	- Apocalypto
+	- Lego: The adventures of clutch Powers
+- 1
+	- Moonfall
+	- The death of a unicorn
+	- The Signal
+- Her 8
+- Minority Report 8
+- Ghost in the Shell 6
+- In Time 8
+- Stowaway 5
+- Cloverfield Paradox 7
+- Jack Reacher 8
+- Jack Ryan: shadow recruit 7
+- Ready Player One 9
+- Chappie 9
+- Happy Gilmore 8
+- Armageddon 8
+- A Quiet Place 6
+- Ex Machina 9
+- Matrix series 8
+- Imitation Game 9

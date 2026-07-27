@@ -1,0 +1,25 @@
+---
+tags:
+  - Keep/Color/Red
+---
+
+
+- [ ] Symptoms
+- [ ] Started about 1 year ago and has slowly gotten worse with occasional periods of remission (could be stress induced)
+- [ ] Constant bloating (gas pressure somewhere between small intestine and colon)
+- [ ] Stomach churning (noise) all day
+- [ ] Frequent belching/farting
+- [ ] Occasional week long bouts of diarrhea
+- [ ] Movement seems to help ease discomfort while sitting/laying makes it palpably increase
+- [ ] Diet cause
+- [ ] To my experience, every symptom is diet invariant (tried cutting salami, dairy? each for at least a week)
+- [ ] Tests/meds
+- [ ] Had h pylori breath test 6 months ago and that was negative
+- [ ] Dr told me to get pepcid (famotidine) for what was likely GERD -- no changes
+- [ ] Benefiber
+- [ ] Metamucil
+- [X] Lifelong problem of taking a long time to empty bowels
+- [X] Diet is somewhat low in fiber and several vitamins & minerals
+- [X] Eat very few fruits/veggies/while wheat/beans/arti.sugar
+- [X] I typically drink just under half a gallon of water per day and rarely drink anything else
+- [X] Eat fast almost everytime

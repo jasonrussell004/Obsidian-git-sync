@@ -1,0 +1,81 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+
+- [ ] Call Nordic, elkhorn, rox, aim high, blue spruce, lakeside
+- [ ] Call hoa about ac condenser blockage
+- [ ] Resident should remove the tarp and rug
+- [ ] Can my current or future ac unit be relocated from under the stairs (ideally where there is no need to bury refrigerant lines)
+- [ ] Xfinity Internet 
+- [ ] Add return ducts
+- [ ] Add secondary drain for evaporator
+- [ ] Clean furnace blower
+- [ ] ~$500
+- [ ] Replace air filter 
+- [ ] Go over inspection 
+- [ ] Sam's credit card (call)
+- [ ] +1-866-419-4096
+- [ ] HVAC technician (AC then furnace)
+- [ ] Reply to Andrew about logistics of moving property tax and home insurance off loan
+- [ ] Repeat GG money extraction
+- [ ] IRA transfer 
+- [ ] Message Robinhood for reimbursement (2x$75)
+- [ ] Measurements for gui
+- [ ] Car service
+- [ ] Call jiffy lube & grease monkey for pricing 
+- [ ] Bike service
+- [ ] Paneer cleaning
+- [ ] Door fix
+- [ ] Couch fix
+- [ ] https://maps.app.goo.gl/BPr8maY6uoJryoSD7
+- [ ] Unused $50 top golf gift card
+- [ ] December 
+- [ ] Dune
+- [ ] November 
+- [ ] Hunger games
+- [ ] July
+- [ ] Spiderman
+- [ ] Odyssey
+- [ ] June
+- [ ] Disclosure day
+- [ ] May
+- [ ] Mandalorian and grogu?
+- [ ] https://www.tiktok.com/t/ZP8xaw9fo/
+- [ ] https://www.tiktok.com/t/ZP8xDu7Gf/
+- [ ] Get new toilet valve home depot
+- [ ] Get Total wine app and merge accounts
+- [ ] Wild ginger thai
+- [ ] Jp nori sushi & pan asian
+- [ ] Imperial Garden
+- [ ] Platte River Bar & Grill
+- [ ] Remove escrow
+- [ ] 2nd bathroom 
+- [ ] Toilet brush
+- [ ] Shampoo
+- [ ] Floor lamp
+- [ ] All weather tires
+- [ ] Subscription mailing for weekly pickem updates
+- [ ] Live odds for each player to win (and expected value)
+- [ ] Drop down selection filter for API on homepage 
+- [ ] Register bike (aventon and city)
+- [ ] Navpy states: Warning for file input overriding cart input
+- [ ] JBL speaker
+- [ ] Norelco shaver
+- [ ] Call city water for latest particle study
+- [ ] Personal travel insurance through work
+- [ ] Instant water heater
+- [ ] Brooks/Hokas
+- [ ] Wallet
+- [ ] Pillowcases
+- [ ] espresso machine
+- [ ] espresso grinder
+- [ ] Ebike
+- [ ] bike bag for back rack
+- [ ] Mirror
+- [ ] Phone holder
+- [ ] Oil change 
+- [ ] Dr appt
+- [ ] https://www.instagram.com/p/DNVbtH6ztYG/?img_index=15&igsh=d2ZxaWg3enN2b3Jw
+- [ ] Cat Ethernet cabling

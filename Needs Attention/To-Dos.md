@@ -1,0 +1,194 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+
+- [ ] New Mutants 
+- [ ] Chronicle
+- [ ] Backrooms
+- [ ] For all mankind 
+- [ ] Star city
+- [ ] Blade runner 2099
+- [ ] Inglorious bastards 
+- [ ] Superman 2025
+- [ ] 12 monkeys movie
+- [ ] Greenland (2)
+- [ ] Mercy
+- [ ] Marty supreme 
+- [ ] Fallout
+- [ ] Disclosure Day
+- [ ] Avatar 3
+- [ ] Eternity
+- [ ] All of you
+- [ ] Waiting
+- [ ] F1
+- [ ] Karate kid
+- [ ] Fantastic 4
+- [ ] Tron ares
+- [ ] Mission impossible 
+- [ ] Final destination bloodlines
+- [ ] Last breath
+- [ ] 28 years later
+- [ ] Avatar 3
+- [ ] Jurassic world 4
+- [ ] Now you see me 3
+- [ ] Animal friends
+- [ ] Team America
+- [ ] Lost in translation
+- [ ] PB fit, choc protein powder, whole milk
+- [ ] Dad
+- [ ] Ski x2
+- [ ] Mickey 17
+- [ ] Mini golf
+- [ ] Hike
+- [ ] Tennis
+- [ ] Pickleball
+- [ ] Shuffleboard
+- [ ] Golf simulator
+- [ ] Hot tub
+- [ ] Work
+- [ ] Bars (lazy dog)
+- [ ] IHOP
+- [ ] Sushi
+- [ ] Tacos
+- [ ] Chinese
+- [ ] Wide toebox shoes
+- [ ] Try to use KinetX EAP in network 
+- [ ] Dr visit
+- [ ] Ingrown toenail
+- [ ] Lower back skin
+- [ ] Eyelid twitching
+- [ ] Raspberry pi projects
+- [ ] Led power
+- [ ] Led power with relay
+- [ ] Led power with relay + switch
+- [ ] Pihole
+- [ ] Lookmovie/tv streaming device
+- [ ] Cigna/BCBS dogshit
+- [ ] Ethan
+- [ ] Kayaking
+- [ ] Rock climbing
+- [ ] Frisbee golf
+- [ ] Golf 
+- [ ] Aqua golf
+- [ ] Pickleball 
+- [ ] Tennis
+- [ ] Soccer
+- [ ] Golf simulator 
+- [ ] Shuffleboard
+- [ ] Billiards
+- [ ] Hot tub 
+- [ ] Hike 
+- [ ] Rocky mountain national park
+- [ ] Garden of the gods
+- [ ] Bars or taprooms
+- [ ] Sawa sushi 
+- [ ] All you can eat sushi
+- [ ] Taco selene
+- [ ] Mediterranean
+- [ ] Los dos potrillos 
+- [ ] Steaks on da grill
+- [ ] Walk around downtown Denver 
+- [ ] Oru bulkhead replacement
+- [ ] Kayak launches (sorted)
+- [ ] Chatfield 
+- [ ] Cherry Creek 
+- [ ] Standley lake
+- [ ] Soda lake 
+- [ ] Barr lake
+- [ ] Boulder reservoir
+- [ ] Lake Dillon 
+- [ ] Grand lake/Shadow mountain lake/Lake granby
+- [ ] Gross reservoir
+- [ ] Recipe creating 
+- [ ] Whiskey
+- [ ] Buffalo trace
+- [ ] Bulleit
+- [ ] Makers mark
+- [ ] Woodford reserve 
+- [ ] Wild turkey
+- [ ] Elijah Craig
+- [ ] Roth IRA to SCHG
+- [ ] Trad IRA to FTEC
+- [ ] Figgie (board game)
+- [ ] The night before (movie)
+- [ ] Andy weir Artemis (book)
+- [ ] Dermatologist 
+- [ ] Symptoms:
+- [ ] Mostly constipation and bloating (can feel some sort of digestive activity or lack thereof most of the time)
+- [ ] Started about 2 years ago and slowly got worse over the first year with occasional periods of remission (could be stress induced)
+- [ ] Rarely have bowel movements that feel complete
+- [ ] Constant bloating (gas pressure somewhere between small intestine and colon) makes me feel the need to make a bowel movement (mostly gas, sometimes solid)
+- [ ] Constant daily bloating makes it hard to tell difference between hunger and bowel activity
+- [ ] First year consisted of week long diarrhea bouts but those are no more (constipation is a bigger problem now)
+- [ ] Lifelong problem of taking 15-30 minutes to completely empty bowels
+- [ ] Treatment/testing
+- [ ] Have tried homemade probiotics (kefir) and a few diet restrictions such as dairy and processed meats
+- [ ] Have tried miralax and proton inhibitors
+- [ ] Exercise seems to help temporarily with bloating
+- [ ] Coffee has been the most impactful in a good way. Will stimulate a near-complete bowel movement a couple hours after consumption
+- [ ] Tried 400/800/1200 mg magnesium with 3 metamucil gummies
+- [ ] Tried linzess
+- [ ] Trying trulance
+- [ ] Trying anti-depressant
+- [ ] Endoscopy found some swelling in lower esophagus (heartburn related but no longer an issue)
+- [ ] Colonoscopy found some benign polyps and large intestine swelling
+- [ ] Father has Ulcerative Colitis and sister has IBS-C
+- [ ] Had h pylori breath test 6 months ago and that was negative
+- [ ] Dr told me to get pepcid (famotidine) for what was likely GERD -- no change
+- [ ] Think it could be IBS-C possibly with Crohn's 
+- [ ] Cause investigation
+- [ ] Low fiber intake
+- [ ] East meals very fast
+- [ ] Exercise somewhat regularly
+- [ ] Drink plenty of water
+- [ ] Goals
+- [ ] Would like to go more extreme with prebiotics/probiotics and fiber intake solutions (have considered byenefiber & metamucil)
+- [ ] Mirin
+- [ ] Kimchi 
+- [ ] Eye dr
+- [ ] Sell
+- [ ] Skis & boots
+- [ ] -------------
+- [ ] Ask pete for custom usbc hub (display port plus HDMI?)
+- [ ] Lost
+- [ ] Asteroid city
+- [ ] mission impossible 
+- [ ] License plate
+- [ ] Drivers license
+- [ ] Forever skies
+- [ ] Fix seatbelt pretensioner
+- [ ] Gt alumni network in denver
+- [ ] Update resume/LinkedIn 
+- [ ] Undercarriage car wash
+- [ ] Credit card benefit comparison 
+- [ ] Soyrizo
+- [ ] Aeropress or pour over
+- [ ] Gooseneck kettle 
+- [ ] https://www.reddit.com/r/LifeProTips/comments/z921bo/lpt_with_winter_coming_if_youre_new_to_cold/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
+- [ ] Analog logic gates in brain
+- [ ] Psychologist -- schedule appt
+- [ ] Dietician/allergist -- schedule appt for food sensitivity 
+- [ ] Bars/food with gang
+- [ ] panda express
+- [ ] Chipotle
+- [ ] Activities with gang
+- [ ] Hike
+- [ ] Golf
+- [ ] Pool (and table)
+- [ ] Frisbee golf
+- [ ] Board/video games
+- [ ] Tubing
+- [ ] Rock climbing
+- [ ] Escape room
+- [ ] Movie (theater)
+- [ ] Exercises
+- [ ] Reverse crunches
+- [ ] Side crunches
+- [ ] Crunches
+- [ ] *Plank*
+- [ ] ENTERPRISE USAA DISCOUNT ***ALNCGEN***
+- [X] https://fndl.co/mcg7wvz
+- [X] https://www.draftkings.com/r/math_wormage
+- [X] E-Trade open Roth IRA for $150

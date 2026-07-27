@@ -1,0 +1,11 @@
+---
+tags:
+---
+What do you hope to get out of this project? *
+First and foremost, of course I want to be a part of the team that sends the first university-based rocket into space. I also hope to learn a lot through the variety of experiences with large scale practical rocketry and aeronautics. My main career goal is to work in the spaceflight industry one day in any capacity, so working with this team of brilliant individuals would certainly launch myself closer to reaching this aspiration. More generally, I am hoping to have many fun experiences working on the YJSP's innovative projects, and I am looking forward to making friends with students who have similar goals and passions as myself.
+
+Please list any unique skills, knowledge, or relevant experience you may have
+I have a lot of experience with 3d modeling/printing with autodesk and some work with solidworks; I designed and built a working model rocket out of various kitchen paper/plastic products and an estes C6-7 engine with an egg as the payload; I have spent hundreds of hours playing around with various spaceflight simulators such as simple rockets and kerbal space program; I have also done a lot of personal research on the topics of orbital mechanics, spaceflight propulsion, and launch trajectories; I have a lot of experience with engineering project design and implementation through projects in my engineering classes at school; during a summer internship at Cisco, my team and I designed a way to implement native Cisco technologies such as V2X and 5G networking into solving Atlanta's traffic problems, and we won first place among the other groups of interns.
+
+Please list any major commitments you have
+The only other commitments I plan on having are classes and GT football games whenever they are.

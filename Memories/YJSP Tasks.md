@@ -1,0 +1,27 @@
+---
+tags:
+---
+
+
+- [ ] Start Wind model
+	- [ ] https://www.mathworks.com/help/aeroblks/wind.html
+- [ ] Research ECI vs ECEF (reference frames) and quaternions (orientation)
+- [ ] Get truthmodel.slx running
+	- [ ] run *_config
+	- [ ] open model (slx)
+	- [ ] run *_testCmd.m
+	- [ ] run sim
+- [ ] Design rocket in RAS Aero
+	- [ ] 2 ft nose cone
+	- [ ] point mass 1 lb mass 1 ft below nose cone bottom
+	- [ ] 4 inch body diameter
+	- [ ] fiberglass everything
+	- [ ] margin of stability = 1.7 caliber
+	- [ ] triangle fins
+	- [ ] 10-12 ft high
+	- [ ] L 1355 motor
+	- [ ] Record these:
+	- [ ] cog
+	- [ ] initial mass
+	- [ ] final mass
+	- [ ] moment of inertia

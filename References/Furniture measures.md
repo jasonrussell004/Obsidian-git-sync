@@ -1,0 +1,9 @@
+- [ ] Desk: 6 ft wide x 3 ft deep x 2 ft 6 in tall
+- [ ] Bookshelf: 2 ft 6 in wide x 1 ft deep x 6 ft tall
+- [ ] Coffee Table: 3 ft 2 in wide square + 1 ft 2 in couch separation
+- [ ] Couch: 8 ft 4 in deep x 11 ft 6 in wide
+- [ ] left outer depth 8 ft 4 in left width 3 ft 3 in left inner depth 5 ft 4 in middle width 5 ft 2 in right inner depth 2 ft 8 in right width 3 ft 1 in right outer depth 6 ft
+- [ ] tall dresser: 2 ft 6 in wide x 1 ft 4 in deep
+- [ ] wide dresser: 5 ft wide x 1 ft 4 in deep
+- [ ] nightstand: 1 ft 9 in wide x 1 ft 4 in deep
+- [ ] bedframe: 4 ft 8 in wide x 7 ft deep
