@@ -1,4 +1,5 @@
 - hanabi
+- Spy Alley
 - pandemic
 - settlers of catan
 - codenames
