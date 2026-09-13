@@ -1,7 +1,3 @@
----
-tags:
-  - Keep/Color/Red
----
 
 
 - [ ] Symptoms

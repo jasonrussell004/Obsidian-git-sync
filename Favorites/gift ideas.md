@@ -1,7 +1,3 @@
----
-tags:
-  - Keep/Pinned
----
 
 
 https://www.etsy.com/listing/1077526969/hilbert-curve-fractal-wooden-puzzle?ref=share_v4_lx

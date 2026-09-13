@@ -1,6 +1,3 @@
----
-tags:
----
 - [ ] Finnegan's 92 chicken pot pie
 - [ ] Sloppy Taco Palace 89 burrito
 - [ ] Cowfish 85 truffle burger/firecracker shrimp

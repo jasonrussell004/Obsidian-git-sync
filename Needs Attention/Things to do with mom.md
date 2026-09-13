@@ -1,7 +1,3 @@
----
-aliases:
-  - Things to do w/ mom
----
 
 
 - [ ] Check out rec center (robert clement park)

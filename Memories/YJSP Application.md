@@ -1,6 +1,3 @@
----
-tags:
----
 What do you hope to get out of this project? *
 First and foremost, of course I want to be a part of the team that sends the first university-based rocket into space. I also hope to learn a lot through the variety of experiences with large scale practical rocketry and aeronautics. My main career goal is to work in the spaceflight industry one day in any capacity, so working with this team of brilliant individuals would certainly launch myself closer to reaching this aspiration. More generally, I am hoping to have many fun experiences working on the YJSP's innovative projects, and I am looking forward to making friends with students who have similar goals and passions as myself.
 

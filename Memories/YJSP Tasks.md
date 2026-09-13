@@ -1,6 +1,3 @@
----
-tags:
----
 
 
 - [ ] Start Wind model

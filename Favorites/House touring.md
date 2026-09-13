@@ -1,7 +1,3 @@
----
-tags:
-  - Keep/Pinned
----
 
 
 - [ ] Call Nordic, elkhorn, rox, aim high, blue spruce, lakeside
