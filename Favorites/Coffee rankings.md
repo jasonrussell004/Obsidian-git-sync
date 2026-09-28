@@ -10,3 +10,4 @@ Steam Espresso Bar - 9
 Sapor Coffee & Concepts - 8
 Corvus - 9
 The Bardo Coffee House (Broadway) - 8
+Washington Perk - 3
