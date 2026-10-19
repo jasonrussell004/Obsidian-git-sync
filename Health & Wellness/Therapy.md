@@ -15,7 +15,7 @@
 	- girlfriend
 	- see the world
 - consider sleep study (sleep apnea can cause GERD and anxiety)
-- acknowledge that anxiety is an emotion without logic
+- acknowledge that anxiety is an emotion that can't be conquered with logic
 	- pop the bubbles of "what if" thoughts
 - square breathing or deep breathing to cope
 - exercise helps, however simple it is
@@ -32,4 +32,10 @@
 	- strategies to stop dwelling on "what ifs"
 		1. Pop the bubble
 		2. ...
+- how to embrace imperfection
+- how to embrace failure
+- how to battle the feeling of needing to justify my decisions to anyone I interact with
+- how to value present Jason more than future Jason
+	- frugality in saving maximum for retirement
+	- time/energy spent preparing for 
 #### Lisa
