@@ -1,4 +1,4 @@
-## Lisa Nelson (EAP — Clinical Therapist @ CU Boulder)
+## ==Lisa Nelson (EAP — Clinical Therapist @ CU Boulder)==
 ### 19-OCT-2026 (Meeting #1)
 #### Jason
 - 3 axes of anxiety
@@ -37,5 +37,16 @@
 - how to battle the feeling of needing to justify my decisions to anyone I interact with
 - how to value present Jason more than future Jason
 	- frugality in saving maximum for retirement
-	- time/energy spent preparing for 
+	- time/energy spent preparing for every possible scenario
+		- I feel it would take a lot of effort to consciously suppress thoughts of analyzing possible outcomes
 #### Lisa
+- 
+
+## ==Jonathon Shaffer (Clinical Psychologist)==
+### General Notes
+- bad habits
+	- skin picking
+	- mouth chewing
+	- nail biting
+	- nose picking
+- 
