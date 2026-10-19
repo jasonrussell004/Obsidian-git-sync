@@ -21,12 +21,13 @@
 - exercise helps, however simple it is
 - to-do lists give a sense of accomplishment
 - depression shows up as irritability and lack of motivation
-- depression, fear, and anxiety is analogous to past, present, and future worries
+- depression is to the past, fear is to the present, and anxiety is to the future
 
 ### 27-OCT-2026 (Meeting #2)
 #### Jason
 - how to ask for time extensions at work when I am swamped
-- educational youtube time sink (learning for the sake of learning is a significant distraction)
+- educational youtube & random coding projects are a time sink (learning for the sake of learning is a significant distraction)
+	- need to spend more time doing less time learning
 - friend went through the same thing 2 years ago
 - how to manage obligations to current friends while seeking new ones
 - I spend too much time in my own head
