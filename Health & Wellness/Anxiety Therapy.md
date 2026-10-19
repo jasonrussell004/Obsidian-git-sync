@@ -21,20 +21,21 @@
 - exercise helps, however simple it is
 - to-do lists give a sense of accomplishment
 - depression shows up as irritability and lack of motivation
+- depression, fear, and anxiety is analogous to past, present, and future worries
 
 ### 27-OCT-2026 (Meeting #2)
 #### Jason
 - how to ask for time extensions at work when I am swamped
-- educational youtube time sink
+- educational youtube time sink (learning for the sake of learning is a significant distraction)
 - friend went through the same thing 2 years ago
+- how to manage obligations to current friends while seeking new ones
 - I spend too much time in my own head
 	- how do I get out?
 	- strategies to stop dwelling on "what ifs"
 		1. Pop the bubble
 		2. ...
-- how to embrace imperfection
-- how to embrace failure
-- how to battle the feeling of needing to justify my decisions to anyone I interact with
+- how to embrace and distinguish between imperfection/failure/inefficiency
+- how to battle the feeling of needing to explain/justify my decisions to anyone I interact with
 - how to value present Jason more than future Jason
 	- frugality in saving maximum for retirement
 	- time/energy spent preparing for every possible scenario
@@ -42,7 +43,7 @@
 #### Lisa
 - 
 
-## ==Jonathon Shaffer (Clinical Psychologist)==
+## ==John Doctor (Clinical Psychologist)==
 ### General Notes
 - bad habits
 	- skin picking
