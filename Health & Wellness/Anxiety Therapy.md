@@ -51,4 +51,6 @@
 	- mouth chewing
 	- nail biting
 	- nose picking
+	- beard picking
+	- mustache biting
 - 
