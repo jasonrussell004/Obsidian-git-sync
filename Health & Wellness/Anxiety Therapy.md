@@ -25,7 +25,9 @@
 
 ### 27-OCT-2026 (Meeting #2)
 #### Jason
+- loss of appetite (lost 10 pounds) 
 - ask about insurance coverage past 3 meetings
+- dealing with AI as a replacement for problem solving
 - ask about ingrown toenail 
 - how to ask for time extensions at work when I am swamped
 - educational youtube & random coding projects are a time sink (learning for the sake of learning is a significant distraction)
