@@ -4,7 +4,7 @@
 - 3 axes of anxiety
 	- lack of social growth
 	- increasing responsibility at work
-	- health anxiety (GERD & vomiting)
+	- health anxiety (GERD & vomiting & ingrown toenail)
 #### Lisa
 - Brené Brown
 	- anatomy of trust on yt
@@ -25,6 +25,8 @@
 
 ### 27-OCT-2026 (Meeting #2)
 #### Jason
+- ask about insurance coverage past 3 meetings
+- ask about ingrown toenail 
 - how to ask for time extensions at work when I am swamped
 - educational youtube & random coding projects are a time sink (learning for the sake of learning is a significant distraction)
 	- need to spend more time doing less time learning
