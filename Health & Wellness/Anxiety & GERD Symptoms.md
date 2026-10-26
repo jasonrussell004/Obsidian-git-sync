@@ -1,0 +1,19 @@
+- Started 2 weeks ago as caffeine-induced nausea
+- Last Tuesday was the last time I had caffeine and that caused a high resting heart rate
+	- normal is 60-70 bpm, but it got up past 100 bpm
+	- felt like a panic attack with shortness of breath, tight upper chest, and nausea, but I don't think I'd ever had a panic attack before
+	- square breathing exercises did not help as they normally help with my anxiety
+- Ever since last Tuesday I haven't felt like myself
+	- struggle to eat anything
+	- persistent dull pain in stomach and upper chest/lower throat 
+	- persistent slight nausea
+	- unable to concentrate on work
+	- some of the pain subsides if I can distract myself with videos or video games
+	- any form of exercise seems to exacerbate things significantly. Travel last night was the most miserable I've felt since last Tuesday
+	- constant gas pressure in stomach that requires frequent belching or burping to feel better
+- Have IBS-C and high anxiety but no other related medical history
+- My leading theories by order of likelihood are: severe anxiety (I'm not sure what I'd be anxious about for this long), severe GERD, some infection (viral or bacterial), or appendicitis
+- thought it might be a caffeine or food intolerance but I think we can rule those out
+- have taken Advil only a few times to mange pain
+
+- blood pressure 155/91
