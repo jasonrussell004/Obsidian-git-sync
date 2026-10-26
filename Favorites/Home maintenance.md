@@ -1,0 +1,9 @@
+- [ ] strike plates
+- [ ] posters
+- [ ] bathroom patching
+- [ ] bathroom hanging
+- [ ] hot water bidet
+- [ ] couch beam
+- [ ] pantry hinge
+- [ ] kitchen RO water filter
+- [ ] bathroom sinks

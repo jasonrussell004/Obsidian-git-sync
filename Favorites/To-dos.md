@@ -1,0 +1,15 @@
+- [ ] wash paneers
+- [ ] clean room
+- [ ] clean living room
+- [ ] clean kitchen
+- [ ] clean 2nd bedroom
+- [ ] clean office
+- [ ] clean garage
+- [ ] vacuum
+- [ ] book flight home
+- [ ] Amazon order
+- [ ] Walmart
+- [ ] King Soopers
+- [ ] phone transfer
+- [ ] Amazon returns
+- [ ] 
