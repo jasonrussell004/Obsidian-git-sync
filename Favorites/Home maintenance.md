@@ -7,3 +7,5 @@
 - [ ] pantry hinge
 - [ ] kitchen RO water filter
 - [ ] bathroom sinks
+- [ ] guest bathroom toilet valve
+- [ ] digital leak shutoff install

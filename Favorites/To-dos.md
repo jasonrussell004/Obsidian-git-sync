@@ -12,4 +12,5 @@
 - [ ] King Soopers
 - [ ] phone transfer
 - [ ] Amazon returns
-- [ ] 
+- [ ] wash guest room sheets
+- [ ] place towels in guest bath
