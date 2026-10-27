@@ -34,11 +34,11 @@
 	- need to spend more time doing less time learning
 - friend went through the same thing 2 years ago
 - how to manage obligations to current friends while seeking new ones
-- I spend too much time in my own head
-	- how do I get out?
-	- strategies to stop dwelling on "what ifs"
-		1. Pop the bubble
-		2. ...
+- ==I spend too much time in my own head==
+	- ==how do I get out?==
+	- ==strategies to stop dwelling on "what ifs"==
+		1. ==Pop the bubble==
+		2. ==...==
 - how to embrace and distinguish between imperfection/failure/inefficiency
 - how to battle the feeling of needing to explain/justify my decisions to anyone I interact with
 - how to value present Jason more than future Jason
@@ -46,7 +46,13 @@
 	- time/energy spent preparing for every possible scenario
 		- I feel it would take a lot of effort to consciously suppress thoughts of analyzing possible outcomes
 #### Lisa
-- 
+- emotions are never "wrong"
+- gratitude/self-love journal
+	- 1/day or 7/week
+- nothing is ever perfect, especially the first time
+- use court trial of anxious thoughts to get rid of them
+	- can't use emotional evidence
+- treat anxious or bad thoughts as children in a playroom
 
 ## ==John Doctor (Clinical Psychologist)==
 ### General Notes
