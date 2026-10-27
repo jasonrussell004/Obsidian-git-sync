@@ -1,0 +1,39 @@
+
+pandemic
+settlers of catan
+codenames
+carcassonne
+triominoes
+windfall
+stratego
+ticket to ride
+rummikub
+mexican train
+clue
+horse show
+whats yours like
+game of things
+cards against humanity
+monopoly
+monopoly jr
+life
+life twists & turns
+favor of the pharoah
+terraforming mars
+captain sonar
+zathura
+jumanji
+xtronaut
+risk
+spy alley
+yahtzee
+sequence
+
+concept
+dune
+journey through europe
+escape from atlantis
+diplomacy
+the farming game
+lost cities
+7 wonders

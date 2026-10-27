@@ -1,0 +1,28 @@
+---
+tags:
+  - Keep/Pinned
+---
+
+
+- [ ] Self love journal
+- [ ] "If I look perfect, do it perfect, work perfect, and live perfect, I can avoid or minimize shame, blame, and judgement"
+- [ ] "perfectionism is the 20 ton shield; you think it's going to protect you from being hurt, but it only protects you from being seen"
+- [ ] Emotion is driving the car; thought & behavior are in the trunk
+- [ ] Thought is in the passenger seat with a gun to the head of emotion
+- [ ] Friendship building conversation is meant to share a connection not information 
+- [ ] Stop treating every interaction as a transaction 
+- [ ] How to practice gratitude 
+- [ ] Need to learn how to not see myself as wasting people's time unless I'm doing what they ask
+- [ ] Need to be less practical
+- [ ] Detune mental models assuming things about people
+- [ ] Use bravery to embrace anxiety
+- [ ] Anxiety about taking time off without knowing mission schedules far out in the future
+- [ ] Board game club
+- [ ] Bike ride club
+- [ ] Stargazing club
+- [ ] Pickleball
+- [ ] Open play
+- [ ] League play
+- [ ] Cooking club
+- [ ] Hiking club
+- [ ] Book club?
