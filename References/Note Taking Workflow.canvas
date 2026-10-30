@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"9eed1e8ced55cd77","type":"text","text":"Phone Obsidian","x":-560,"y":100,"width":158,"height":60,"color":"4"},
-		{"id":"f9e42d238ba58962","type":"text","text":"Google Drive","x":-560,"y":-4,"width":158,"height":60,"color":"5"},
-		{"id":"6b03adeab5513662","type":"text","text":"GitHub Backup","x":-120,"y":-4,"width":158,"height":60,"color":"5"},
 		{"id":"502fe5507dfe0551","type":"text","text":"PC Obsidian","x":-338,"y":-4,"width":158,"height":60,"color":"4"},
 		{"id":"df0120806a9b214c","type":"text","text":"Google Keep","x":-338,"y":100,"width":158,"height":60,"color":"4"},
 		{"id":"ab896a121bdc6ba5","type":"text","text":"Android Auto","x":-338,"y":200,"width":158,"height":60,"color":"4"},
-		{"id":"b3bb60b8c22812ad","type":"text","text":"Local Backup","x":-120,"y":100,"width":158,"height":60,"color":"5"}
+		{"id":"6b03adeab5513662","type":"text","text":"GitHub Backup","x":-100,"y":-4,"width":158,"height":60,"color":"5"},
+		{"id":"f9e42d238ba58962","type":"text","text":"Google Drive","x":-580,"y":-4,"width":158,"height":60,"color":"5"},
+		{"id":"9eed1e8ced55cd77","type":"text","text":"Phone Obsidian","x":-580,"y":100,"width":158,"height":60,"color":"4"},
+		{"id":"b3bb60b8c22812ad","type":"text","text":"Local Backup","x":-100,"y":100,"width":158,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"1c405c9847fdf57c","fromNode":"502fe5507dfe0551","fromSide":"right","toNode":"b3bb60b8c22812ad","toSide":"left"},

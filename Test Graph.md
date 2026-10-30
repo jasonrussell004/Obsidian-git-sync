@@ -161,80 +161,26 @@ graph TB
 ```
 
 
-
-
 ```mermaid
-architecture-beta
-    group matrix(grid) [Sync & Backup Matrix]
+flowchart TB
+    subgraph Row1
+        A --> B
+    end
+    subgraph Row2
+        C --> D
+    end
+    A --> C
+    B --> D
 
-    %% Row 1 Elements
-    GD[Google Drive]:::blue in matrix(0,0)
-    PO[PC Obsidian]:::green in matrix(0,1)
-    GH[GitHub Backup]:::blue in matrix(0,2)
-
-    %% Row 2 Elements
-    PhO[Phone Obsidian]:::green in matrix(1,0)
-    GK[Google Keep]:::green in matrix(1,1)
-    LB[Local Backup]:::blue in matrix(1,2)
-
-    %% Row 3 Elements
-    Empty1[ ]:::invisible in matrix(2,0)
-    AA[Android Auto]:::green in matrix(2,1)
-    Empty2[ ]:::invisible in matrix(2,2)
-
-    %% Connection Matrix Edges
-    GD:R <-> PO:L
-    GD:B <-> PhO:T
-    GK:T -> PO:B
-    AA:T -> GK:B
-    PO:R -> GH:L
-    PO:B -> LB:L
-
-    %% Custom Matrix Styling
-    classDef blue fill:#11222d,stroke:#265c63,stroke-width:2px,color:#fff;
-    classDef green fill:#0d1f14,stroke:#265e31,stroke-width:2px,color:#fff;
-    classDef invisible fill:none,stroke:none,color:none;
 ```
 
-
-
 ```mermaid
-graph LR
-    %% ROW 1
-    GD[Google Drive]:::blue --> PO[PC Obsidian]:::green
-    PO --> GH[GitHub Backup]:::blue
+---
+config:
+  layout: elk
+---
+flowchart LR
+    A --> B
+    A --> C
 
-    %% ROW 2
-    PhO[Phone Obsidian]:::green --- Spacer1[ ]:::invisible
-    Spacer1 --- LB[Local Backup]:::blue
-
-    %% ROW 3
-    Spacer2[ ]:::invisible --- GK[Google Keep]:::green
-    GK --- Spacer3[ ]:::invisible
-
-    %% ROW 4
-    Spacer4[ ]:::invisible --- AA[Android Auto]:::green
-    AA --- Spacer5[ ]:::invisible
-
-    %% STUCTURAL COLUMN COUPLINGS (Enforces Matrix Grid Alignment)
-    GD <--> PhO
-    PhO --- Spacer2 --- Spacer4
-    PO --- GK --- AA
-    GH --- LB --- Spacer3 --- Spacer5
-
-    %% FUNCTIONAL ARROWS
-    PO --> GD
-    GK --> PO
-    PO --> LB
-
-    %% Styling
-    classDef blue fill:#11222d,stroke:#265c63,stroke-width:2px,color:#fff;
-    classDef green fill:#0d1f14,stroke:#265e31,stroke-width:2px,color:#fff;
-    classDef invisible fill:none,stroke:none,color:none;
-
-    %% Hide structural alignment lines
-    linkStyle 2,3,4,5,6,7,8,10,11,12,13,14 stroke:none;
-    
-    %% Style active arrows
-    linkStyle 0,1,9,15,16,17 stroke:#666,stroke-width:2px;
 ```

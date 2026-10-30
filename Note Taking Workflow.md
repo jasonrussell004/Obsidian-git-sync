@@ -10,11 +10,6 @@ visibleLinkTypes:
   - backups_to
   - sends_to
   - syncs_with
-rootNodeProperties:
-  - activelinktypes
-  - rootnodeproperties
-  - rootnodes
-  - visiblelinktypes
 ---
 This is a dedicated graph document view.
 
@@ -51,8 +46,8 @@ This is a dedicated graph document view.
   "nodes": {
     "node_1": {
       "noteId": "file_1",
-      "x": -2647.075623967981,
-      "y": -376.24864902718303,
+      "x": -24059.34686822483,
+      "y": -6899.303464812211,
       "pinned": false,
       "origin": {
         "kind": "root"
@@ -60,8 +55,8 @@ This is a dedicated graph document view.
     },
     "node_2": {
       "noteId": "file_2",
-      "x": 129.63726014634702,
-      "y": 1383.9328861336949,
+      "x": 5635.494518237223,
+      "y": 23151.111454903774,
       "pinned": false,
       "origin": {
         "kind": "root"
@@ -69,8 +64,8 @@ This is a dedicated graph document view.
     },
     "node_3": {
       "noteId": "file_3",
-      "x": -32.340687420487484,
-      "y": 831.8786704638651,
+      "x": -1590.6765237559314,
+      "y": -1038.2946051323086,
       "pinned": false,
       "origin": {
         "kind": "root"
@@ -78,8 +73,8 @@ This is a dedicated graph document view.
     },
     "node_4": {
       "noteId": "file_4",
-      "x": 1566.8755860248912,
-      "y": -845.9285664685882,
+      "x": 19040.59510084936,
+      "y": -14196.315114863412,
       "pinned": false,
       "origin": {
         "kind": "root"
@@ -87,4 +82,41 @@ This is a dedicated graph document view.
     }
   }
 }
+```
+
+```mermaid
+---
+config:
+  layout: grid
+---
+flowchart
+    %% Row 1
+    GD["Google Drive"]
+    PCO["PC Obsidian"]
+    GB["GitHub Backup"]
+
+    %% Row 2
+    PO["Phone Obsidian"]
+    GK["Google Keep"]
+    LB["Local Backup"]
+
+    %% Row 3
+    blank[" "]
+    AA["Android Auto"]
+    blank2[" "]
+
+    %% --- Connections ---
+    GD <--> PCO
+    GD <--> PO
+    
+    AA --> GK
+    GK --> PCO
+    
+    PCO --> GB
+    PCO --> LB
+
+    %% Style the blank spacers to be invisible
+    style blank fill:none,stroke:none;
+    style blank2 fill:none,stroke:none;
+
 ```
