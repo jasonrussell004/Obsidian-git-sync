@@ -9,6 +9,8 @@
 ### Gui
 - Round of golf at his favorite course (don't tie myself to it)
 ## ==For Me==
+- Running shoes
+- Candles
 - https://www.etsy.com/listing/1077526969/hilbert-curve-fractal-wooden-puzzle?ref=share_v4_lx
 - Poster frames*
 	- https://a.co/d/gYf6WDn
@@ -88,3 +90,11 @@
 	- https://www.shopnasa.com/
 	- https://mynasastore.com/
 	- https://stemerch.com/collections/science-toys/products/led-magnetic-levitation-globe?variant=42981373313259
+- office chair mat
+    - https://www.amazon.com/gp/product/B0B7HZFZ12/ref=ox_sc_act_title_2?smid=A2GAQ5O9S2FQKD&psc=1
+- math calendar
+    - https://bookstore.ams.org/view?ProductCode=MBK/147
+- wok
+	- https://www.amazon.com/gp/product/B07MXK3QHJ/ref=ox_sc_saved_title_3?smid=A2ACDS6PGRFCLH&psc=1
+- Ceramic Mixing Spoon
+- Juicer

@@ -17,6 +17,7 @@
 	- Dark matter (2015) or (2024)
 	- Lost in Space s2
 	- Squid Games s2
+	- Soulmate
 - Xmas
 	- Falling for Christmas 
 	- 8 bit christmas
@@ -109,6 +110,11 @@
 	- Dune
 	- Good Will Hunting
 	- The Odyssey
+	- Ready Player One
+	- Chappie
+	- Ex Machina
+	- Imitation Game
+	- Mean Girls
 - 8
 	- First Man
 	- 21
@@ -121,24 +127,24 @@
 	- Orville
 	- Guardians of the Galaxy Vol. 3
 	- The Hungover Games 
-	- Passengers 8
-	- Life 8
+	- Passengers
+	- Life
 	- Greenland
-	- I am Legend 8
-	- Napoleon Dynamite 8
-	- Spiderman into Spiderverse 8
-	- Truman Show 8
+	- I am Legend
+	- Napoleon Dynamite
+	- Spiderman into Spiderverse
+	- Truman Show
 	- Social Network
-	- I, Robot 8
-	- World War Z 8
+	- I, Robot
+	- World War Z
 	- Kung Fu Panda
-	- Captian Phillips 8
-	- Snowden 
-	- Hunger Games Series 8
-	- iCarly 8
-	- Batman series 8
-	- Kingsman series 8
-	- Hidden Figures 8
+	- Captian Phillips
+	- Snowden
+	- Hunger Games Series
+	- iCarly
+	- Batman series
+	- Kingsman series
+	- Hidden Figures
 	- Shooter
 	- Black Mirror (USS Callister)
 	- The Dictator
@@ -147,10 +153,9 @@
 	- A man called otto
 	- Mr Nobody 
 	- Hacksaw Ridge 
-	- Mean Girls 9
-	- Source Code 8
-	- 7500 8
-	- Don't Look Up 8
+	- Source Code
+	- 7500
+	- Don't Look Up
 	- Ford vs Ferrari
 	- Blades of Glory
 - 7
@@ -171,33 +176,35 @@
 	- Everything everywhere all at once
 	- The Batman
 	- Kindom of the planet of the apes
-	- Maze Runner series 7
-	- A Dog's Purpose/Journey 7
-	- Fantastic 4 7
-	- Planet of the Apes series 7
-	- Phineas and Ferb 7
-	- The Prestige 7
+	- Maze Runner series
+	- A Dog's Purpose/Journey
+	- Fantastic 4
+	- Planet of the Apes series
+	- Phineas and Ferb
+	- The Prestige
 	- McFarland, USA 
-	- Great Gatsby 7
-	- Blended 7
-	- Jumanji 7
-	- Pitch Perfect series 7
-	- Total Recall 7
-	- Upgrade 7
+	- Great Gatsby
+	- Blended
+	- Jumanji
+	- Pitch Perfect series
+	- Total Recall
+	- Upgrade
 	- Moon
-	- Jumper 7
-	- Zombieland series 7
-	- Pacific Rim 7
-	- Looper 7
-	- Dr. Strange 7
-	- We're the Millers 7
-	- Super 8 7
-	- Back to the Future 7
+	- Jumper
+	- Zombieland series
+	- Pacific Rim
+	- Looper
+	- Dr. Strange
+	- We're the Millers
+	- Super 8
+	- Back to the Future
 	- Old
 	- Gifted
 	- Ocean's 11-13
 	- WALL-E
 	- Contagion
+	- Cloverfield Paradox
+	- Jack Ryan: shadow recruit
 - 6
 	- The last duel
 	- Mad Max: Furiosa
@@ -215,36 +222,36 @@
 	- Foundation
 	- Prey
 	- Memento
-	- Crazy Rich Asians 6
+	- Crazy Rich Asians
 	- Europa Report
 	- Dog
 	- Murder on the Orient Express
 	- Archive
 	- Morbius
-	- Arrival 6
+	- Arrival
 	- Self/less 
-	- Big Hero 6
-	- Baby Driver 6
-	- Wolf of Wall Street 6
-	- Xmen series 6
-	- John Wick series 6
-	- Lego Movie 6
-	- James Bond series 6
-	- Eighth Grade 6
-	- Easy A 6
-	- Travelers 6
-	- Alien series 6
-	- Everest 6
-	- The Upside 6
-	- Bedtime Stories 6
-	- The Accountant 6
-	- Rocket Science 6
+	- Big Hero
+	- Baby Driver
+	- Wolf of Wall Street
+	- Xmen series
+	- John Wick series
+	- Lego Movie
+	- James Bond series
+	- Eighth Grade
+	- Easy A
+	- Travelers
+	- Alien series
+	- Everest
+	- The Upside
+	- Bedtime Stories
+	- The Accountant
+	- Rocket Science
 	- 300 6
 	- Blade Runner 2049
 	- Prometheus
-	- Detective Pikachu 6
-	- The Internship 6
-	- Free Guy 6
+	- Detective Pikachu
+	- The Internship
+	- Free Guy
 	- Frozen (horror)
 	- The Perks of Being a Wallflower
 	- Dead Poets Society 
@@ -258,8 +265,10 @@
 	- More than a game
 	- 10 Things I Hate About You
 	- Silver Lining Playbook
+	- Ghost in the Shell
+	- A Quiet Place
 - 5
-	- Tron 5
+	- Tron
 	- Sheep Detective
 	- Nerve
 	- Red eye
@@ -283,15 +292,15 @@
 	- 2012
 	- Rudy
 	- Independence Day series
-	- Escape Room 2 5
+	- Escape Room 2
 	- Jupiter Ascending
-	- Space between Us 5
-	- 50 first dates 5
-	- Just Go with It 5
-	- Age of Adaline 5
+	- Space between Us
+	- 50 first dates
+	- Just Go with It
+	- Age of Adaline
 	- Nope
 	- Reminiscence
-	- Hangover series 5
+	- Hangover series
 	- Red notice
 	- Upside Down 
 	- Deepwater Horizon
@@ -300,7 +309,8 @@
 	- Snowpiercer
 	- The cube
 	- Fly me to the moon
-	- Voicemails for Isabelle 
+	- Voicemails for Isabelle
+	- Stowaway
 - 4
 	- 65
 	- Red Dawn (2012)
@@ -321,14 +331,14 @@
 	- Mortal Engines
 	- Harry Potter 20th anniversary
 	- Death on the Nile
-	- Open House 4
-	- Aquaman 4
-	- Game Night 4
-	- The Big Short 
-	- Let It Snow 4
-	- To All the Boys I've Loved Before 4
-	- Noelle 4
-	- The Lazarus Effect 4
+	- Open House
+	- Aquaman
+	- Game Night
+	- The Big Short
+	- Let It Snow
+	- To All the Boys I've Loved Before
+	- Noelle
+	- The Lazarus Effect
 	- Gemini Man
 	- Fall
 	- The menu
@@ -349,44 +359,40 @@
 	- Hit man
 	- Downhill
 	- Cowboys & Aliens 
-	- Solaris 3
-	- A Teacher 3
-	- Annihilation 3
-	- Sunshine 3
-	- Matchmaker's Playbook 3
-	- Happy Death Day 3
-	- Table 19 3
-	- The Voyeurs 3
+	- Solaris
+	- A Teacher
+	- Annihilation
+	- Sunshine
+	- Matchmaker's Playbook
+	- Happy Death Day
+	- Table 19
+	- The Voyeurs
 	- Thor: Love and Thunder
 	- Z for Zachariah
 	- Beerfest
 	- The drop
+	- The invite
+	- Lego: The adventures of clutch Powers
 - 2
 	- The aviator
 	- Office romance
 	- Lilo & Stitch 
 	- Captain America: brave New world
 	- Garden State
-	- Angry Birds series 2
+	- Angry Birds series
 	- Apocalypto
-	- Lego: The adventures of clutch Powers
+	- Disclosure Day
 - 1
 	- Moonfall
 	- The death of a unicorn
 	- The Signal
-- Her 8
-- Minority Report 8
-- Ghost in the Shell 6
-- In Time 8
-- Stowaway 5
-- Cloverfield Paradox 7
-- Jack Reacher 8
-- Jack Ryan: shadow recruit 7
-- Ready Player One 9
-- Chappie 9
-- Happy Gilmore 8
-- Armageddon 8
-- A Quiet Place 6
-- Ex Machina 9
-- Matrix series 8
-- Imitation Game 9
+	
+
+- Her
+- Matrix series
+- Minority Report
+- Happy Gilmore
+- Armageddon
+- In Time
+- Jack Reacher
+

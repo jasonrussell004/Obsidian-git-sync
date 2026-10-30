@@ -1,7 +1,3 @@
----
-tags:
-  - Keep/Pinned
----
 
 
 - [ ] Self love journal

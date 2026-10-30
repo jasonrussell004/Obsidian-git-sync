@@ -1,0 +1,5 @@
+- Escape room 
+- Mini golf 
+- Theme park 
+- Trivia 
+- Zoo/botanical garden

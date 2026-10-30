@@ -1,5 +1,3 @@
-
-
 - [ ] 7 interior
 	- [ ] Have 6x 1 1/2 inch flat head wood screws 
 	- [ ] Previously used 3/4 inch brass screws

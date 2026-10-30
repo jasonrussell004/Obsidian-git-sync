@@ -1,26 +1,16 @@
 ---
 GoogleKeepCreatedDate: 2026-10-28T01:53:00.510000+00:00
-GoogleKeepUpdatedDate: 2026-10-29T22:03:18.538000+00:00
+GoogleKeepUpdatedDate: 2026-10-30T05:52:19.223000+00:00
 GoogleKeepUrl: https://keep.google.com/#NOTE/1c2tGIXqn1xPLvxlf_C5-UmkSL69Fpco8FAL-uHfr0Cvr6itrot2dsxUhuBUBkCl6YRKc
-KeepSidianLastSyncedDate: 2026-10-30T05:33:22.000Z
-KeepSidianRemoteBaseline: sha256:7db0599cd7f6f3933d6555b62f31dbb1c5909cde58e555c1c1e2b20daebb445e
-KeepSidianRemoteRevision: keep-v1:47e517f89ffb33c8d43dc0858278698f95b0d00476949fcd456fe75ead50c2c0
-KeepSidianLocalBaseline: sha256:50ff8cc39546cd8788552a4b364fe700e0b190bcc719f569147728962e6ffacd
+KeepSidianLastSyncedDate: 2026-10-30T05:54:27.497Z
+KeepSidianRemoteBaseline: sha256:a53b3b468654dcd6032daf86c0fc09df6b30e5ce2ca486762b56b90f30035122
+KeepSidianRemoteRevision: keep-v1:0bd3547b316983a7f7d68b7ba15f0a63105287b4aae0314ccdfe0b8945b43e3b
+KeepSidianLocalBaseline: sha256:7b56da5caca76a8cd9757d9557c67d88ee1c6f720ac54d163f130158de288ebf
 ---
-- [ ] Grocery 
-  - [ ] Parmesan
-  - [ ] Rice
-  - [ ] Quinoa
-  - [ ] Maple syrup 
-  - [ ] Vanilla extract 
-  - [ ] Collagen
-  - [ ] Windshield wipers
-- [ ] Work
-  - [ ] Spice id translate to body name
-  - [ ] Horizontal line still useful?
-  - [ ] Time system specified clearly
-- [ ] Todo
-  - [ ] Call Sam's about credit card application issue & Walmart account linked to Sam's account 
-- [ ] Gifts
-  - [ ] Running shoes
-  - [ ] Candles
+- [ ] Parmesan
+- [ ] Rice
+- [ ] Quinoa
+- [ ] Maple syrup 
+- [ ] Vanilla extract 
+- [ ] Collagen
+- [ ] Windshield wipers

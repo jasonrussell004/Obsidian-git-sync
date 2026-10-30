@@ -1,9 +1,3 @@
----
-tags:
-  - Keep/Archived
----
-
-
 - [ ] (Books) Mars Trilogy
 - [ ] Valerian and the City of a Thousand Planets 
 - [ ] Tron: Legacy 

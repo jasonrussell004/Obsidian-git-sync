@@ -1,4 +1,4 @@
-Wishlist
+Video Game Wishlist:
 - Cozy grove
 - Islanders
 - Pacific drive
@@ -13,11 +13,16 @@ Wishlist
 - Abyssals
 - Falling frontier 
 - Nivalis
-- Deliver us mars sep 27
+- Deliver us mars
 - The invincible
 - Cocoon
 - Mc legends
 - Light-year frontier
+Board Game Wishlist:
+- Search for planet x board game
+- Zendo board game
+- Shipwreck arcana board game
+- Bomb busters board game 
 
 Played List
 - Board Games

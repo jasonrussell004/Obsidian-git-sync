@@ -1,5 +1,3 @@
-
-
 - [ ] Fetch live MMR from rltracker
 - [ ] Use Ballchasing private matches to gather old game data to set player lines and mmr
 - [ ] mmr will be whatever your 2s/3s avg mmr (can update this in real time potentially)

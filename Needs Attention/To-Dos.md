@@ -1,5 +1,3 @@
-
-
 - [ ] New Mutants 
 - [ ] Chronicle
 - [ ] Backrooms
@@ -185,6 +183,3 @@
 - [ ] Crunches
 - [ ] *Plank*
 - [ ] ENTERPRISE USAA DISCOUNT ***ALNCGEN***
-- [X] https://fndl.co/mcg7wvz
-- [X] https://www.draftkings.com/r/math_wormage
-- [X] E-Trade open Roth IRA for $150
