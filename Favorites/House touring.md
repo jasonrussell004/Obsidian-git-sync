@@ -1,26 +1,24 @@
-
-
 - [ ] Call Nordic, elkhorn, rox, aim high, blue spruce, lakeside
 - [ ] Call hoa about ac condenser blockage
 - [ ] Resident should remove the tarp and rug
 - [ ] Can my current or future ac unit be relocated from under the stairs (ideally where there is no need to bury refrigerant lines)
-- [ ] Xfinity Internet 
+- [ ] Xfinity Internet
 - [ ] Add return ducts
 - [ ] Add secondary drain for evaporator
 - [ ] Clean furnace blower
 - [ ] ~$500
-- [ ] Replace air filter 
+- [ ] Replace air filter
 - [ ] Go over inspection 
 - [ ] Sam's credit card (call)
 - [ ] +1-866-419-4096
 - [ ] HVAC technician (AC then furnace)
 - [ ] Reply to Andrew about logistics of moving property tax and home insurance off loan
 - [ ] Repeat GG money extraction
-- [ ] IRA transfer 
+- [ ] IRA transfer
 - [ ] Message Robinhood for reimbursement (2x$75)
 - [ ] Measurements for gui
 - [ ] Car service
-- [ ] Call jiffy lube & grease monkey for pricing 
+- [ ] Call jiffy lube & grease monkey for pricing
 - [ ] Bike service
 - [ ] Paneer cleaning
 - [ ] Door fix

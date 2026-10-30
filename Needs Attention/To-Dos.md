@@ -183,3 +183,45 @@
 - [ ] Crunches
 - [ ] *Plank*
 - [ ] ENTERPRISE USAA DISCOUNT ***ALNCGEN***
+
+- [ ] Theragun
+- [ ] Die hard
+- [ ] Hummingbird project
+- [ ] Above the below
+- [ ] Crazy Rich Asians TV show
+- [ ] 8 Spider-Man brand new day
+- [ ] 4 love hypothesis
+- [ ] 6 Resident Evil (2026)
+- [ ] 5 Unabomber
+- [ ] 9 Upload
+- [ ] 7 Toy story 5
+- [ ] 5 Backrooms
+- [ ] 4 Dink
+- [ ] IRA transfer
+  - [ ] Message Robinhood for reimbursement (2x$75)
+- [ ] Moka pot metal filter
+- [ ] Cerave hydration cleanser or foaming
+- [ ] Colorado train for sightseeing
+- [ ] Whalefall
+- [ ] Brendan ski trip
+- [ ] Zaida pickle ball trip
+
+
+- [ ] Chicken
+  - [ ] 2 lbs chicken
+  - [ ] 130 g roasted onion (1 red onion)
+  - [ ] 2 tsp of cayenne, garlic powder, onion powder, black pepper, soy sauce
+  - [ ] 1 tsp of salt
+  - [ ] 30 g (2 tbsp) Worcestershire sauce
+  - [ ] 110 g buffalo sauce
+- [ ] Cheese sauce
+  - [ ] 300 g (300 ml) milk
+  - [ ] 680 g (1 lb 8 oz) 4% cottage cheese
+  - [ ] 30 g honey
+  - [ ] 100 g cream cheese
+  - [ ] 150 g cheddar cheese
+  - [ ] 120 g buffalo sauce
+  - [ ] 80 g parmesan cheese
+- [ ] $10 off fabletics with code vip10men
+- [ ] $10 fabletics gift card code GIFT10
+- [ ] Add list of frame-independent params to filter the param_dict on

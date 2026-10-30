@@ -158,6 +158,13 @@
 	- Don't Look Up
 	- Ford vs Ferrari
 	- Blades of Glory
+	- Her
+	- Matrix series
+	- Minority Report
+	- Happy Gilmore
+	- Armageddon
+	- In Time
+	- Jack Reacher
 - 7
 	- Brothers (2009)
 	- The queens gambit
@@ -386,13 +393,3 @@
 	- Moonfall
 	- The death of a unicorn
 	- The Signal
-	
-
-- Her
-- Matrix series
-- Minority Report
-- Happy Gilmore
-- Armageddon
-- In Time
-- Jack Reacher
-
