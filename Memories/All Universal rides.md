@@ -1,3 +1,4 @@
+### Ranked in Order
 - [ ] Velocicoaster x4
 - [ ] Hagrid's x2
 - [ ] Ko'okiri body plunge (drop chamber) x3
