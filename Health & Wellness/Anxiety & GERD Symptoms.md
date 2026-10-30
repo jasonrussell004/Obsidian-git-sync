@@ -1,19 +1,38 @@
-- Started 2 weeks ago as caffeine-induced nausea
-- Last Tuesday was the last time I had caffeine and that caused a high resting heart rate
+- Started 4 weeks ago as caffeine-induced nausea
+- 3 weeks ago was the last time I had caffeine and that caused a high resting heart rate
 	- normal is 60-70 bpm, but it got up past 100 bpm
 	- felt like a panic attack with shortness of breath, tight upper chest, and nausea, but I don't think I'd ever had a panic attack before
 	- square breathing exercises did not help as they normally help with my anxiety
-- Ever since last Tuesday I haven't felt like myself
+- Had another panic attack while on work travel in Houston 2 weeks ago
+    - travel was making things worse
+    - work on travel would have been easy, but pressure of next 6 months of work was mounting
+    - went to urgent care and received diagnosis+meds for anxiety+GERD
+        - anxiety meds did not help
+            - hydroxyzine made me feel like a zombie, fighting to stay awake and think clearly
+        - GERD meds are helping 
+            - Omeprazole 20 mg delayed release capsule has allowed me to eat most foods again
+        - blood pressure 155/91
+- Ever since that episode I haven't felt like myself
 	- struggle to eat anything
 	- persistent dull pain in stomach and upper chest/lower throat 
 	- persistent slight nausea
+	- shortness of breath and tight chest
 	- unable to concentrate on work
-	- some of the pain subsides if I can distract myself with videos or video games
-	- any form of exercise seems to exacerbate things significantly. Travel last night was the most miserable I've felt since last Tuesday
+	- some of the pain subsides if I can distract myself
 	- constant gas pressure in stomach that requires frequent belching or burping to feel better
+- Have seen a counselor through work EAP program 2 times and that combined with deep conversations with friends and family has started to get me back on track
+- working nearly full days now and able to eat most foods
+- bloating, lump in throat, and acid burning esophagus up to the back of mouth are the biggest remaining symptoms
+- recently stopped taking melatonin 5 mg every night for the past week to help fall asleep 
+- gargling water mixed with baking soda to neutralize acid in mouth
+- elevating head about 8 inches with angled pillow while sleeping
+- Have been exercising and trying to socialize more
+- used to take famotidine for GERD symptoms a long time ago and recently, but it didn't seem to help either time
+
 - Have IBS-C and high anxiety but no other related medical history
-- My leading theories by order of likelihood are: severe anxiety (I'm not sure what I'd be anxious about for this long), severe GERD, some infection (viral or bacterial), or appendicitis
+- My leading theories by order of likelihood are: severe anxiety (work, health, social stagnation), severe GERD, and/or a hiatal hernia
 - thought it might be a caffeine or food intolerance but I think we can rule those out
 - have taken Advil only a few times to mange pain
+- switched to Tylenol since urgent care visit, but not taking regularly
 
-- blood pressure 155/91
+- 20 mg propranolol 3 times as needed
