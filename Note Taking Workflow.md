@@ -1,76 +1,90 @@
-```gr
-car->keep;
-keep->pc;
-phone->drive; drive->phone;
-pc->drive; drive->pc;
-pc->github;
-pc->local;
-: [
-drive:{name="Google Drive",color="black",text=""};
-local:{name="Local Backup",color="black",text=""};
-github:{name="GitHub Backup",color="black",text=""};
-phone:{name="Phone Obsidian",color="blue",text=""};
-pc:{name="PC Obsidian",color="blue",text=""};
-car:{name="Android Auto",color="blue",text=""};
-keep:{name="Google Keep",color="blue",text=""};
-]
+---
+o3Graph: true
+rootNodes:
+  - "[[NosyGraph/Nodes/PC Obsidian]]"
+activeLinkTypes:
+  - "[[NosyGraph/LinkTypes/backups_to]]"
+  - "[[NosyGraph/LinkTypes/sends_to]]"
+  - "[[NosyGraph/LinkTypes/syncs_with]]"
+visibleLinkTypes:
+  - backups_to
+  - sends_to
+  - syncs_with
+rootNodeProperties:
+  - activelinktypes
+  - rootnodeproperties
+  - rootnodes
+  - visiblelinktypes
+---
+This is a dedicated graph document view.
+
+
+## Graph Data
+```o3graph
+{
+  "version": 2,
+  "viewport": {
+    "zoom": 0.10809659631650313,
+    "x": 6341.512513729684,
+    "y": 5880.28919350456
+  },
+  "ui": {
+    "linkTypeMenu": {
+      "width": 260,
+      "height": 360
+    }
+  },
+  "notes": {
+    "file_1": {
+      "path": "NosyGraph/LinkTypes/backups_to.md"
+    },
+    "file_2": {
+      "path": "NosyGraph/LinkTypes/sends_to.md"
+    },
+    "file_3": {
+      "path": "NosyGraph/LinkTypes/syncs_with.md"
+    },
+    "file_4": {
+      "path": "NosyGraph/Nodes/PC Obsidian.md"
+    }
+  },
+  "nodes": {
+    "node_1": {
+      "noteId": "file_1",
+      "x": -2647.075623967981,
+      "y": -376.24864902718303,
+      "pinned": false,
+      "origin": {
+        "kind": "root"
+      }
+    },
+    "node_2": {
+      "noteId": "file_2",
+      "x": 129.63726014634702,
+      "y": 1383.9328861336949,
+      "pinned": false,
+      "origin": {
+        "kind": "root"
+      }
+    },
+    "node_3": {
+      "noteId": "file_3",
+      "x": -32.340687420487484,
+      "y": 831.8786704638651,
+      "pinned": false,
+      "origin": {
+        "kind": "root"
+      }
+    },
+    "node_4": {
+      "noteId": "file_4",
+      "x": 1566.8755860248912,
+      "y": -845.9285664685882,
+      "pinned": false,
+      "origin": {
+        "kind": "root"
+      }
+    }
+  }
+}
 ```
-
-```mermaid
-flowchart TD
-    %% Custom Node Styling
-    classDef storage fill:#1a1a1a,stroke:#555,stroke-width:2px,color:#fff;
-    classDef ui fill:#0022ff,stroke:#fff,stroke-width:1px,color:#fff;
-
-    %% ==========================================
-    %% NODE DEFINITIONS
-    %% ==========================================
-    %% Row 1: Data Storage / Backups
-    GD["Google Drive"]
-    GH["GitHub Backup"]
-    LB["Local Backup"]
-    
-    %% Row 2: User Interfaces
-    PO["Phone Obsidian"]
-    PC["PC Obsidian"]
-    AA["Android Auto"]
-    
-    %% Row 3: Bottom Collector
-    GK["Google Keep"]
-
-    %% Apply Styles
-    class GD,GH,LB storage;
-    class PO,PC,AA,GK ui;
-
-    %% ==========================================
-    %% GRID STRUCTURE LOCKS (Invisible Alignment)
-    %% ==========================================
-    %% Force Row 1 Order: Left to Right
-    GD ~~~ GH ~~~ LB
-    
-    %% Force Row 2 Order: Left to Right
-    PO ~~~ PC ~~~ AA
-    
-    %% Force Column Alignment: Vertical Downward Drops
-    GD ~~~ PO
-    GH ~~~ PC
-    LB ~~~ AA
-
-    %% ==========================================
-    %% ACTUAL SYSTEM LINES / ARROWS
-    %% ==========================================
-    %% Straight Vertical Syncs
-    GD --> PO
-    GH --> PC
-    PC --> GK
-
-    %% Straight Horizontal Syncs
-    PC <--> GD
-    PC --> LB
-
-    %% Diagonal clean link down to bottom center
-    AA --> GK
-
-```
-
-

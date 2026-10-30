@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"9eed1e8ced55cd77","type":"text","text":"Phone Obsidian","x":-560,"y":100,"width":158,"height":60,"color":"4"},
+		{"id":"f9e42d238ba58962","type":"text","text":"Google Drive","x":-560,"y":-4,"width":158,"height":60,"color":"5"},
+		{"id":"6b03adeab5513662","type":"text","text":"GitHub Backup","x":-120,"y":-4,"width":158,"height":60,"color":"5"},
+		{"id":"502fe5507dfe0551","type":"text","text":"PC Obsidian","x":-338,"y":-4,"width":158,"height":60,"color":"4"},
+		{"id":"df0120806a9b214c","type":"text","text":"Google Keep","x":-338,"y":100,"width":158,"height":60,"color":"4"},
+		{"id":"ab896a121bdc6ba5","type":"text","text":"Android Auto","x":-338,"y":200,"width":158,"height":60,"color":"4"},
+		{"id":"b3bb60b8c22812ad","type":"text","text":"Local Backup","x":-120,"y":100,"width":158,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"1c405c9847fdf57c","fromNode":"502fe5507dfe0551","fromSide":"right","toNode":"b3bb60b8c22812ad","toSide":"left"},
+		{"id":"500c7354196a0235","fromNode":"502fe5507dfe0551","fromSide":"left","toNode":"f9e42d238ba58962","toSide":"right"},
+		{"id":"858ba5466b57cc96","fromNode":"9eed1e8ced55cd77","fromSide":"top","toNode":"f9e42d238ba58962","toSide":"bottom"},
+		{"id":"06b1123aeca79b2d","fromNode":"df0120806a9b214c","fromSide":"top","toNode":"502fe5507dfe0551","toSide":"bottom"},
+		{"id":"cbe0b4ab40226666","fromNode":"ab896a121bdc6ba5","fromSide":"top","toNode":"df0120806a9b214c","toSide":"bottom"},
+		{"id":"25b08048e7fad005","fromNode":"f9e42d238ba58962","fromSide":"right","toNode":"502fe5507dfe0551","toSide":"left"},
+		{"id":"0aa1020d28d5a85c","fromNode":"f9e42d238ba58962","fromSide":"bottom","toNode":"9eed1e8ced55cd77","toSide":"top"},
+		{"id":"b5d9ca55a5bf2936","fromNode":"502fe5507dfe0551","fromSide":"right","toNode":"6b03adeab5513662","toSide":"left"}
+	]
+}
