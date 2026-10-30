@@ -1,1 +1,0 @@
---- rootNodeProperties: - parts - deliverables parts: - "[[Part A]]" - "[[Part B]]" visibleLinkTypes: - "[[LinkType - blocked_by]]" ---
