@@ -1,6 +1,6 @@
 ![[Keep Gift Ideas|Keep Gift Ideas]]
 
-## ==For Others==
+# For Others
 ### Mom
 - digital picture frame
 ### Dad
@@ -10,19 +10,25 @@
 - wedding registry
 ### Gui
 - Round of golf at his favorite course (don't tie myself to it)
-## ==For Me==
-- Running shoes
+# For Me
 - Floor lamp for guest bedroom
 - Nightstand for guest bedroom
+- All-weather tires
+- Theragun
+- Cerave hydration cleanser or foaming
+- JBL speaker
+- Gooseneck kettle
+- Phillips Norelco shaver
 - Wallet
+- Instant water heater
 - Pillowcases
-- espresso machine
-- espresso grinder
+- Espresso machine
+- Espresso grinder
 - Candles
-- https://www.etsy.com/listing/1077526969/hilbert-curve-fractal-wooden-puzzle?ref=share_v4_lx
+- Wood puzzles
+	- https://www.etsy.com/listing/1077526969/hilbert-curve-fractal-wooden-puzzle?ref=share_v4_lx
 - Poster frames*
 	- https://a.co/d/gYf6WDn
-- https://boardgamegeek.com/boardgame/455763/in-a-nut-shell
 - Outdoor grill
 - Clamps
 - Security camera
@@ -44,7 +50,7 @@
 	- Asics gel nimbus
 	- Brooks ghost (40% off Joanna)
 	- New balance 990v5
-- Hike to: https://www.tiktok.com/t/ZP8J2cqvM/
+
 - Luggage
 - Pi hole
 - The mind card game

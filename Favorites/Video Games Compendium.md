@@ -18,6 +18,7 @@ Video Game Wishlist:
 - Cocoon
 - Mc legends
 - Light-year frontier
+- Forever skies
 
 Played List
 - Xbox One

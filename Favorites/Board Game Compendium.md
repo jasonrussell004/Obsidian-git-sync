@@ -1,4 +1,19 @@
-Played:
+### Wishlist
+- concept
+- dune
+- journey through europe
+- escape from atlantis
+- diplomacy
+- the farming game
+- lost cities
+- 7 wonders
+- Search for planet x
+- Zendo
+- Shipwreck arcana
+- Bomb busters
+- Figgie
+
+### Played
 - hanabi
 - Spy Alley
 - Play Nine
@@ -31,17 +46,3 @@ Played:
 - spy alley
 - yahtzee
 - sequence
-
-Wishlist:
-- concept
-- dune
-- journey through europe
-- escape from atlantis
-- diplomacy
-- the farming game
-- lost cities
-- 7 wonders
-- Search for planet x
-- Zendo
-- Shipwreck arcana
-- Bomb busters

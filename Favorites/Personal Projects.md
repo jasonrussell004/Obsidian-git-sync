@@ -1,0 +1,6 @@
+- [ ] Raspberry pi projects
+	- [ ] Led power
+		- [ ] Led power with relay
+		- [ ] Led power with relay + switch
+	- [ ] Pihole
+	- [ ] Lookmovie/tv streaming device

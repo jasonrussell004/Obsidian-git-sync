@@ -1,5 +1,6 @@
 ### Family/Friends/Solo
 - Movie
+- River tubing
 - Hike
 - Walk
 - Golf
@@ -22,6 +23,7 @@
 - Soccer
 - Shuffleboard
 - Billiards
+- Colorado train for sightseeing
 
 ### Dates
 - Escape room

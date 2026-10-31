@@ -1,0 +1,9 @@
+- [ ] Board game club
+- [ ] Bike ride club
+- [ ] Stargazing club
+- [ ] Pickleball
+- [ ] Open play
+- [ ] League play
+- [ ] Cooking club
+- [ ] Hiking club
+- [ ] Book club?

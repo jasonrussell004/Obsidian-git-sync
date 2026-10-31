@@ -1,4 +1,7 @@
 - TV shows to watch
+	- Crazy Rich Asians TV show
+	- Lost
+	- Asteroid city
 	- Star trek next gen
 	- Person of interest
 	- Loki
@@ -6,6 +9,7 @@
 	- Hijack
 	- Silo
 	- Andor
+	- Severance
 	- Invasion
 	- The man in the high Castle
 	- Picard
@@ -24,15 +28,19 @@
 	- 8 bit christmas
 
 - Movies to see in theaters
-	- Avengers Doomsday
+	- Avengers: Doomsday
 	- Dune 3
 	- Hunger games: Sunrise on the Reaping
 
 - Movies to watch
 	- Imperium
+	- Die hard
+	- Whalefall
+	- Hummingbird project
+	- Above the below
+	- mission impossible
+	- The night before
 	- Murderbot
-	- Severance
-	- Andor
 	- Gone girl
 	- Sorry to bother you
 	- End of watch
@@ -122,8 +130,10 @@
 	- Ex Machina
 	- Imitation Game
 	- Mean Girls
+	- Upload
 - 8
 	- First Man
+	- Spider-Man brand new day
 	- 21
 	- Dumb money
 	- Valerian and the City of a Thousand Planets
@@ -187,6 +197,7 @@
 	- A Quiet Place 2
 	- A Brilliant Young Mind
 	- Spirited
+	- Toy story 5
 	- Everything everywhere all at once
 	- The Batman
 	- Kindom of the planet of the apes
@@ -221,6 +232,7 @@
 	- Jack Ryan: shadow recruit
 - 6
 	- The last duel
+	- Resident Evil (2026)
 	- Mad Max: Furiosa
 	- Mad Max: Fury Road
 	- A Walk to Remember
@@ -260,7 +272,7 @@
 	- Bedtime Stories
 	- The Accountant
 	- Rocket Science
-	- 300 6
+	- 300
 	- Blade Runner 2049
 	- Prometheus
 	- Detective Pikachu
@@ -283,6 +295,8 @@
 	- A Quiet Place
 - 5
 	- Tron
+	- Unabomber
+	- Backrooms
 	- Sheep Detective
 	- Nerve
 	- Red eye
@@ -326,6 +340,8 @@
 	- Voicemails for Isabelle
 	- Stowaway
 - 4
+	- Love hypothesis
+	- Dink
 	- 65
 	- Red Dawn (2012)
 	- Happy Gilmore 2
