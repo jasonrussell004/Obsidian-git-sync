@@ -1,4 +1,3 @@
-
 1. Doublejack - 10 black
 2. Centennial - 10 black
 3. American - 9 black

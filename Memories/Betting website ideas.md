@@ -1,7 +1,7 @@
 - [ ] Fetch live MMR from rltracker
 - [ ] Use Ballchasing private matches to gather old game data to set player lines and mmr
-- [ ] mmr will be whatever your 2s/3s avg mmr (can update this in real time potentially)
-- [ ] game result spread will be determined by difference in sum of mmrs (or just use historical matchups)
+    - [ ] mmr will be whatever your 2s/3s avg mmr (can update this in real time potentially)
+    - [ ] game result spread will be determined by difference in sum of mmrs (or just use historical matchups)
 - [ ] Daily bonus of 100 NGD?
 - [ ] Port to python with csv/sql instead of sheets
 - [ ] TODO

@@ -30,84 +30,27 @@
 - [ ] Animal friends
 - [ ] Team America
 - [ ] Lost in translation
-- [ ] PB fit, choc protein powder, whole milk
-- [ ] Dad
-- [ ] Ski x2
-- [ ] Mickey 17
-- [ ] Mini golf
-- [ ] Hike
-- [ ] Tennis
-- [ ] Pickleball
-- [ ] Shuffleboard
-- [ ] Golf simulator
-- [ ] Hot tub
-- [ ] Work
-- [ ] Bars (lazy dog)
-- [ ] IHOP
-- [ ] Sushi
-- [ ] Tacos
-- [ ] Chinese
-- [ ] Wide toebox shoes
-- [ ] Try to use KinetX EAP in network 
-- [ ] Dr visit
-- [ ] Ingrown toenail
-- [ ] Lower back skin
-- [ ] Eyelid twitching
+
+
+
+
+
 - [ ] Raspberry pi projects
-- [ ] Led power
-- [ ] Led power with relay
-- [ ] Led power with relay + switch
-- [ ] Pihole
-- [ ] Lookmovie/tv streaming device
-- [ ] Cigna/BCBS dogshit
-- [ ] Ethan
-- [ ] Kayaking
-- [ ] Rock climbing
-- [ ] Frisbee golf
-- [ ] Golf 
-- [ ] Aqua golf
-- [ ] Pickleball 
-- [ ] Tennis
-- [ ] Soccer
-- [ ] Golf simulator 
-- [ ] Shuffleboard
-- [ ] Billiards
-- [ ] Hot tub 
-- [ ] Hike 
-- [ ] Rocky mountain national park
-- [ ] Garden of the gods
-- [ ] Bars or taprooms
-- [ ] Sawa sushi 
-- [ ] All you can eat sushi
-- [ ] Taco selene
-- [ ] Mediterranean
-- [ ] Los dos potrillos 
-- [ ] Steaks on da grill
-- [ ] Walk around downtown Denver 
+	- [ ] Led power
+		- [ ] Led power with relay
+		- [ ] Led power with relay + switch
+	- [ ] Pihole
+	- [ ] Lookmovie/tv streaming device
+
+
 - [ ] Oru bulkhead replacement
-- [ ] Kayak launches (sorted)
-- [ ] Chatfield 
-- [ ] Cherry Creek 
-- [ ] Standley lake
-- [ ] Soda lake 
-- [ ] Barr lake
-- [ ] Boulder reservoir
-- [ ] Lake Dillon 
-- [ ] Grand lake/Shadow mountain lake/Lake granby
-- [ ] Gross reservoir
-- [ ] Recipe creating 
-- [ ] Whiskey
-- [ ] Buffalo trace
-- [ ] Bulleit
-- [ ] Makers mark
-- [ ] Woodford reserve 
-- [ ] Wild turkey
-- [ ] Elijah Craig
+
+
 - [ ] Roth IRA to SCHG
 - [ ] Trad IRA to FTEC
 - [ ] Figgie (board game)
 - [ ] The night before (movie)
-- [ ] Andy weir Artemis (book)
+
 - [ ] Dermatologist 
 - [ ] Symptoms:
 - [ ] Mostly constipation and bloating (can feel some sort of digestive activity or lack thereof most of the time)

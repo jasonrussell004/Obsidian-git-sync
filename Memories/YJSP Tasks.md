@@ -1,5 +1,3 @@
-
-
 - [ ] Start Wind model
 	- [ ] https://www.mathworks.com/help/aeroblks/wind.html
 - [ ] Research ECI vs ECEF (reference frames) and quaternions (orientation)
