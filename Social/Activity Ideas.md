@@ -23,8 +23,8 @@
 - Billiards
 
 ### Dates
-- Escape room 
-- Mini golf 
-- Theme park 
-- Trivia 
+- Escape room
+- Mini golf
+- Theme park
+- Trivia
 - Zoo/botanical garden

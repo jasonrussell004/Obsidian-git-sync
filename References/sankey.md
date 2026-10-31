@@ -33,6 +33,6 @@ Food [100] Restaurants
 Food [30] Alcohol
 
 Car [327] Car Loan
-Car [80] Gas 
+Car [80] Gas
 
 Health [36] Disability Benefits

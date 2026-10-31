@@ -1,7 +1,7 @@
 - (Books) Mars Trilogy
-- Valerian and the City of a Thousand Planets 
-- Tron: Legacy 
-- Minority Report 
+- Valerian and the City of a Thousand Planets
+- Tron: Legacy
+- Minority Report
 - In Time
 - Jack Reacher
 - Life

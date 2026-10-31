@@ -8,10 +8,10 @@ Video Game Wishlist:
 - Starfield
 - Ark 2
 - Alters
-- Arctic awakening 
+- Arctic awakening
 - Dune spice wars
 - Abyssals
-- Falling frontier 
+- Falling frontier
 - Nivalis
 - Deliver us mars
 - The invincible
@@ -22,7 +22,7 @@ Board Game Wishlist:
 - Search for planet x board game
 - Zendo board game
 - Shipwreck arcana board game
-- Bomb busters board game 
+- Bomb busters board game
 
 Played List
 - Board Games

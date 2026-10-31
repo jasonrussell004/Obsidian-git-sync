@@ -9,12 +9,12 @@
     - went to urgent care and received diagnosis+meds for anxiety+GERD
         - anxiety meds did not help
             - hydroxyzine made me feel like a zombie, fighting to stay awake and think clearly
-        - GERD meds are helping 
+        - GERD meds are helping
             - Omeprazole 20 mg delayed release capsule has allowed me to eat most foods again
         - blood pressure 155/91
 - Ever since that episode I haven't felt like myself
 	- struggle to eat anything
-	- persistent dull pain in stomach and upper chest/lower throat 
+	- persistent dull pain in stomach and upper chest/lower throat
 	- persistent slight nausea
 	- shortness of breath and tight chest
 	- unable to concentrate on work
@@ -23,7 +23,7 @@
 - Have seen a counselor through work EAP program 2 times and that combined with deep conversations with friends and family has started to get me back on track
 - working nearly full days now and able to eat most foods
 - bloating, lump in throat, and acid burning esophagus up to the back of mouth are the biggest remaining symptoms
-- recently stopped taking melatonin 5 mg every night for the past week to help fall asleep 
+- recently stopped taking melatonin 5 mg every night for the past week to help fall asleep
 - gargling water mixed with baking soda to neutralize acid in mouth
 - elevating head about 8 inches with angled pillow while sleeping
 - Have been exercising and trying to socialize more

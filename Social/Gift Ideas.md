@@ -21,7 +21,7 @@
 - Fire alarm
 - Door locks
 - Upgraded bidet
-- Sawhorses 
+- Sawhorses
 - Thick memory foam pillow
 - Loose-leaf tea
 	- Harney & sons
@@ -41,7 +41,7 @@
 - Pi hole
 - The mind card game
 - Wavelength board game
-- Dune imperium board game 
+- Dune imperium board game
 - telescope (Newtonian ~$300)
 - Quest vr headset
 - 3d printer

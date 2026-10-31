@@ -8,7 +8,7 @@
 - [ ] Clean furnace blower
 - [ ] ~$500
 - [ ] Replace air filter
-- [ ] Go over inspection 
+- [ ] Go over inspection
 - [ ] Sam's credit card (call)
 - [ ] +1-866-419-4096
 - [ ] HVAC technician (AC then furnace)
@@ -25,9 +25,9 @@
 - [ ] Couch fix
 - [ ] https://maps.app.goo.gl/BPr8maY6uoJryoSD7
 - [ ] Unused $50 top golf gift card
-- [ ] December 
+- [ ] December
 - [ ] Dune
-- [ ] November 
+- [ ] November
 - [ ] Hunger games
 - [ ] July
 - [ ] Spiderman
@@ -45,14 +45,14 @@
 - [ ] Imperial Garden
 - [ ] Platte River Bar & Grill
 - [ ] Remove escrow
-- [ ] 2nd bathroom 
+- [ ] 2nd bathroom
 - [ ] Toilet brush
 - [ ] Shampoo
 - [ ] Floor lamp
 - [ ] All weather tires
 - [ ] Subscription mailing for weekly pickem updates
 - [ ] Live odds for each player to win (and expected value)
-- [ ] Drop down selection filter for API on homepage 
+- [ ] Drop down selection filter for API on homepage
 - [ ] Register bike (aventon and city)
 - [ ] Navpy states: Warning for file input overriding cart input
 - [ ] JBL speaker
@@ -69,7 +69,7 @@
 - [ ] bike bag for back rack
 - [ ] Mirror
 - [ ] Phone holder
-- [ ] Oil change 
+- [ ] Oil change
 - [ ] Dr appt
 - [ ] https://www.instagram.com/p/DNVbtH6ztYG/?img_index=15&igsh=d2ZxaWg3enN2b3Jw
 - [ ] Cat Ethernet cabling

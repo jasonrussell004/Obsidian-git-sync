@@ -1,6 +1,6 @@
 - TV shows to watch
 	- Star trek next gen
-	- Person of interest 
+	- Person of interest
 	- Loki
 	- 12 Monkeys
 	- Hijack
@@ -19,7 +19,7 @@
 	- Squid Games s2
 	- Soulmate
 - Xmas
-	- Falling for Christmas 
+	- Falling for Christmas
 	- 8 bit christmas
 - Movies to watch
 	- Imperium
@@ -27,9 +27,9 @@
 	- Severance
 	- Andor
 	- Gone girl
-	- Sorry to bother you 
+	- Sorry to bother you
 	- End of watch
-	- Super Troopers 
+	- Super Troopers
 	- Elevation
 	- Naked gun
 	- Gone girl
@@ -38,27 +38,27 @@
 	- Don Jon
 	- The Abyss
 	- 1917
-	- Thirteen lives 
+	- Thirteen lives
 	- another earth
 	- The nevernight connection
 	- Love
-	- The Fountain 
+	- The Fountain
 	- 2067
 	- IO
 	- Good night oppy
 	- The Midnight Sky
 	- Mother/Android
-	- Mad Max: Fury Road 
+	- Mad Max: Fury Road
 	- Lost city of Z
 	- Project Almanac
-	- Chaos Walking 
+	- Chaos Walking
 	- Jackass forever
 	- 6:45
 	- Marry me
 	- Horrible Bosses 2
 	- LOTR
 	- saving private ryan
-	- 2001: A Space Odyssey 
+	- 2001: A Space Odyssey
 	- Jason Bourne
 	- The amateur
 	- The Internship
@@ -67,10 +67,10 @@
 	- Interstellar
 	- Inception
 	- The Martian
-	- For all mankind 
+	- For all mankind
 - 10
 	- Obsession
-	- PBS Nova: The Farthest 
+	- PBS Nova: The Farthest
 	- 3 body problem
 	- Harry Potter series
 	- Suite Life on Deck
@@ -80,7 +80,7 @@
 	- Ender's Game
 	- Spider-Man No way home
 	- Tropic Thunder
-	- October Sky 
+	- October Sky
 	- Step Brothers
 	- Oppenheimer
 	- Project Hail Mary
@@ -88,7 +88,7 @@
 	- The Office
 	- Spiderman: spiderverse
 	- Talladega Nights: The Ballad of Ricky Bobby
-	- In Time 
+	- In Time
 	- The 100
 	- Edge of Tomorrow
 	- Apollo 11
@@ -97,14 +97,14 @@
 	- Star Wars series
 	- Elf
 	- Avatar
-	- Avatar 2 
+	- Avatar 2
 	- Drake and Josh
 	- Guardians of Galaxy series
 	- Amazing Spiderman
 	- Tenet
 	- Avatar Airbender
 	- Mission Impossible 3+
-	- Top Gun: Maverick 
+	- Top Gun: Maverick
 	- A Beautiful Mind
 	- Star Trek series
 	- Dune
@@ -118,7 +118,7 @@
 - 8
 	- First Man
 	- 21
-	- Dumb money 
+	- Dumb money
 	- Valerian and the City of a Thousand Planets
 	- The wild robot
 	- Mickey 17
@@ -126,7 +126,7 @@
 	- Whiplash
 	- Orville
 	- Guardians of the Galaxy Vol. 3
-	- The Hungover Games 
+	- The Hungover Games
 	- Passengers
 	- Life
 	- Greenland
@@ -151,8 +151,8 @@
 	- War games
 	- Plane
 	- A man called otto
-	- Mr Nobody 
-	- Hacksaw Ridge 
+	- Mr Nobody
+	- Hacksaw Ridge
 	- Source Code
 	- 7500
 	- Don't Look Up
@@ -173,13 +173,13 @@
 	- The happening
 	- Only the Brave
 	- Gran Turismo
-	- Starship Troopers 
+	- Starship Troopers
 	- Wonder Woman
 	- Contact
 	- Nope
 	- A Quiet Place 2
 	- A Brilliant Young Mind
-	- Spirited 
+	- Spirited
 	- Everything everywhere all at once
 	- The Batman
 	- Kindom of the planet of the apes
@@ -189,7 +189,7 @@
 	- Planet of the Apes series
 	- Phineas and Ferb
 	- The Prestige
-	- McFarland, USA 
+	- McFarland, USA
 	- Great Gatsby
 	- Blended
 	- Jumanji
@@ -225,7 +225,7 @@
 	- Superhero Movie
 	- resident alien
 	- Adam project
-	- Ambulance 
+	- Ambulance
 	- Foundation
 	- Prey
 	- Memento
@@ -236,7 +236,7 @@
 	- Archive
 	- Morbius
 	- Arrival
-	- Self/less 
+	- Self/less
 	- Big Hero
 	- Baby Driver
 	- Wolf of Wall Street
@@ -261,7 +261,7 @@
 	- Free Guy
 	- Frozen (horror)
 	- The Perks of Being a Wallflower
-	- Dead Poets Society 
+	- Dead Poets Society
 	- Love and monsters
 	- Scott Pilgrim
 	- Suicide Squad series
@@ -289,12 +289,12 @@
 	- The signal
 	- Eternals
 	- The midnight sky
-	- Downsizing 
-	- Don't worry Darling 
+	- Downsizing
+	- Don't worry Darling
 	- Moonshot
 	- War of the worlds
-	- Deep water 
-	- Requiem for a Dream 
+	- Deep water
+	- Requiem for a Dream
 	- Tracers
 	- 2012
 	- Rudy
@@ -309,7 +309,7 @@
 	- Reminiscence
 	- Hangover series
 	- Red notice
-	- Upside Down 
+	- Upside Down
 	- Deepwater Horizon
 	- Happy feet
 	- Blade Runner 2049
@@ -351,10 +351,10 @@
 	- The menu
 	- The rig
 	- Black swan
-	- Red Planet 
+	- Red Planet
 - 3
 	- Due date
-	- Materialists 
+	- Materialists
 	- Chaos Walking
 	- Balls of Fury
 	- Deep water (2026)
@@ -365,7 +365,7 @@
 	- M3gan 2
 	- Hit man
 	- Downhill
-	- Cowboys & Aliens 
+	- Cowboys & Aliens
 	- Solaris
 	- A Teacher
 	- Annihilation
@@ -383,7 +383,7 @@
 - 2
 	- The aviator
 	- Office romance
-	- Lilo & Stitch 
+	- Lilo & Stitch
 	- Captain America: brave New world
 	- Garden State
 	- Angry Birds series

@@ -7,7 +7,7 @@ keep_title: Birthday freebies
 - [ ] Snarfs does free sandwich
 - [ ] Panera is free dessert/ bakery item
 - [ ] Starbucks is free drink
-- [ ] Dutch Bros free drink 
+- [ ] Dutch Bros free drink
 - [ ] Badass coffee has free drink
 - [ ] Illegal Pete's does free burrito or margarita or shirt
 - [ ] Kohls and world market do $5 store credit

@@ -1,15 +1,15 @@
-- [ ] New Mutants 
+- [ ] New Mutants
 - [ ] Chronicle
 - [ ] Backrooms
-- [ ] For all mankind 
+- [ ] For all mankind
 - [ ] Star city
 - [ ] Blade runner 2099
-- [ ] Inglorious bastards 
+- [ ] Inglorious bastards
 - [ ] Superman 2025
 - [ ] 12 monkeys movie
 - [ ] Greenland (2)
 - [ ] Mercy
-- [ ] Marty supreme 
+- [ ] Marty supreme
 - [ ] Fallout
 - [ ] Disclosure Day
 - [ ] Avatar 3
@@ -20,7 +20,7 @@
 - [ ] Karate kid
 - [ ] Fantastic 4
 - [ ] Tron ares
-- [ ] Mission impossible 
+- [ ] Mission impossible
 - [ ] Final destination bloodlines
 - [ ] Last breath
 - [ ] 28 years later
@@ -51,7 +51,7 @@
 - [ ] Figgie (board game)
 - [ ] The night before (movie)
 
-- [ ] Dermatologist 
+- [ ] Dermatologist
 - [ ] Symptoms:
 - [ ] Mostly constipation and bloating (can feel some sort of digestive activity or lack thereof most of the time)
 - [ ] Started about 2 years ago and slowly got worse over the first year with occasional periods of remission (could be stress induced)
@@ -74,7 +74,7 @@
 - [ ] Father has Ulcerative Colitis and sister has IBS-C
 - [ ] Had h pylori breath test 6 months ago and that was negative
 - [ ] Dr told me to get pepcid (famotidine) for what was likely GERD -- no change
-- [ ] Think it could be IBS-C possibly with Crohn's 
+- [ ] Think it could be IBS-C possibly with Crohn's
 - [ ] Cause investigation
 - [ ] Low fiber intake
 - [ ] East meals very fast
@@ -83,7 +83,7 @@
 - [ ] Goals
 - [ ] Would like to go more extreme with prebiotics/probiotics and fiber intake solutions (have considered byenefiber & metamucil)
 - [ ] Mirin
-- [ ] Kimchi 
+- [ ] Kimchi
 - [ ] Eye dr
 - [ ] Sell
 - [ ] Skis & boots
@@ -91,22 +91,22 @@
 - [ ] Ask pete for custom usbc hub (display port plus HDMI?)
 - [ ] Lost
 - [ ] Asteroid city
-- [ ] mission impossible 
+- [ ] mission impossible
 - [ ] License plate
 - [ ] Drivers license
 - [ ] Forever skies
 - [ ] Fix seatbelt pretensioner
 - [ ] Gt alumni network in denver
-- [ ] Update resume/LinkedIn 
+- [ ] Update resume/LinkedIn
 - [ ] Undercarriage car wash
-- [ ] Credit card benefit comparison 
+- [ ] Credit card benefit comparison
 - [ ] Soyrizo
 - [ ] Aeropress or pour over
-- [ ] Gooseneck kettle 
+- [ ] Gooseneck kettle
 - [ ] https://www.reddit.com/r/LifeProTips/comments/z921bo/lpt_with_winter_coming_if_youre_new_to_cold/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button
 - [ ] Analog logic gates in brain
 - [ ] Psychologist -- schedule appt
-- [ ] Dietician/allergist -- schedule appt for food sensitivity 
+- [ ] Dietician/allergist -- schedule appt for food sensitivity
 - [ ] Bars/food with gang
 - [ ] panda express
 - [ ] Chipotle

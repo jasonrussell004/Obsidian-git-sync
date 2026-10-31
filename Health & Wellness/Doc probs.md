@@ -10,4 +10,3 @@ Dermatology
 
 Magnesium
 Anxiety
-
