@@ -10,7 +10,7 @@
 - [ ] Replace air filter
 - [ ] Go over inspection
 - [ ] Sam's credit card (call)
-- [ ] +1-866-419-4096
+	- [ ] +1-866-419-4096
 - [ ] HVAC technician (AC then furnace)
 - [ ] Reply to Andrew about logistics of moving property tax and home insurance off loan
 - [ ] Repeat GG money extraction
