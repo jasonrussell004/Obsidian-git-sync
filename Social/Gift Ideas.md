@@ -1,4 +1,4 @@
-![[GoogleKeep/Gift Ideas|Gift Ideas]]
+![[Keep Gift Ideas|Keep Gift Ideas]]
 
 ## ==For Others==
 ### Mom
@@ -12,6 +12,12 @@
 - Round of golf at his favorite course (don't tie myself to it)
 ## ==For Me==
 - Running shoes
+- Floor lamp for guest bedroom
+- Nightstand for guest bedroom
+- Wallet
+- Pillowcases
+- espresso machine
+- espresso grinder
 - Candles
 - https://www.etsy.com/listing/1077526969/hilbert-curve-fractal-wooden-puzzle?ref=share_v4_lx
 - Poster frames*

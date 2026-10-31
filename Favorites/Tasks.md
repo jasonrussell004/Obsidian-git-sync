@@ -1,6 +1,7 @@
-![[GoogleKeep/Tasks|Tasks]]
+![[Keep Tasks|Keep Tasks]]
 
 
+### Important
 - [ ] wash paneers
 - [ ] clean room
 - [ ] clean living room
@@ -11,9 +12,10 @@
 - [ ] vacuum
 - [ ] book flight home
 - [ ] Amazon order
-- [ ] Walmart
-- [ ] King Soopers
-- [ ] phone transfer
-- [ ] Amazon returns
 - [ ] wash guest room sheets
 - [ ] place towels in guest bath
+
+### Unimportant
+- [ ] Get Total wine app and merge accounts
+- [ ] Sam's credit card (call)
+	- [ ] +1-866-419-4096

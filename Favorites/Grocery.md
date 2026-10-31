@@ -1,4 +1,4 @@
-![[GoogleKeep/Grocery|Grocery]]
+![[Keep Grocery|Keep Grocery]]
 
 
 - [ ] .

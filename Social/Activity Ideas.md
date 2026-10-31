@@ -3,7 +3,8 @@
 - Hike
 - Walk
 - Golf
-- Top Golf/Aqua Golf
+- Top Golf (Unused $50 gift card in google wallet)
+- Aqua Golf
 - Bike
 - Kayak
 - Ski

@@ -1,4 +1,4 @@
-![[GoogleKeep/Home Maintenance|Home Maintenance]]
+![[Keep Home Maintenance|Keep Home Maintenance]]
 
 
 - [ ] strike plates (need 22 screws)

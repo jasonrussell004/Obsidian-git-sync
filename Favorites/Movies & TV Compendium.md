@@ -23,6 +23,11 @@
 	- Falling for Christmas
 	- 8 bit christmas
 
+- Movies to see in theaters
+	- Avengers Doomsday
+	- Dune 3
+	- Hunger games: Sunrise on the Reaping
+
 - Movies to watch
 	- Imperium
 	- Murderbot

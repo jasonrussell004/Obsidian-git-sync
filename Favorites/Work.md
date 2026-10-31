@@ -1,4 +1,4 @@
-![[GoogleKeep/Work|Work]]
+![[Keep Work|Keep Work]]
 
 
 ![[Work improvement]]
