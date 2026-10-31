@@ -1,38 +1,50 @@
-### SankeyMatic Archive
-Wages [7083] Budget
+### SankeyMatic Graph
 
-Budget [1495] Income Tax
-Budget [3429] Savings
-Budget [1336] Housing
-Budget [407] Car
-Budget [280] Food
-Budget [100] Entertainment
-Budget [36] Health
 
-Income Tax [329] State/Local Tax
-Income Tax [542] FICA
-Income Tax [624] Fed Tax
+Salary = $106,633.80
+Monthly = $8,886.15
+### SankeyMatic Text
+Employer Contributions [544] Retirement
 
-Savings [2993] Investments
-Savings [436] Checking
+Retirement [100] Employer HSA
+Retirement [444] Employer 401k
+Retirement [100] HSA
+Retirement [400] 401k
+Retirement [300] Roth IRA
+Retirement [600] Roth 401k
 
-Investments [1505] 403b pre-tax
-Investments [1488] 403b Roth
-// Investments [0] 457b pre-tax
-// Investments [0] 457b Roth
-// Investments [0] Roth IRA
-// Investments [0] Personal Stocks
+Wages [8886] Income
 
-Housing [1204] Rent
-Housing [40] Internet/Cable
-Housing [80] Electric
-Housing [12] Laundry
+Income [1400] Retirement
+Income [2200] Income Tax
+Income [3288] Housing
+Income [421] Car
+Income [425] Food
+Income [250] Entertainment
+Income [150] Health
 
-Food [150] Groceries
-Food [100] Restaurants
-Food [30] Alcohol
+Housing [2450] Mortgage+Escrow
+Housing [359] HOA
+Housing [55] Internet
+Housing [15] Phone
+Housing [150] Xcel
+Housing [259] AC Loan
 
-Car [327] Car Loan
-Car [80] Gas
+Car [327] Loan
+Car [40] Gas
+Car [54] Car Insurance
 
-Health [36] Disability Benefits
+Food [350] Groceries
+Food [50] Restaurants
+Food [25] Alcohol
+
+Entertainment [90] Skiing
+Entertainment [80] Travel
+Entertainment [15] Spotify
+Entertainment [15] Gaming
+Entertainment [50] Misc
+
+Health [115] Counselor
+Health [35] Premium
+
+Income [752] Savings
