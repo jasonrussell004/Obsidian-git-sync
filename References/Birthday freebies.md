@@ -1,17 +1,14 @@
----
-keep_title: Birthday freebies
----
-- [ ] ==Hiro Japanese Buffet free buffet==
-- [ ] Denver zoo (free admission)
-- [ ] Culver's (free custard email)
-- [ ] Snarfs does free sandwich
-- [ ] Panera is free dessert/ bakery item
-- [ ] Starbucks is free drink
-- [ ] Dutch Bros free drink
-- [ ] Badass coffee has free drink
-- [ ] Illegal Pete's does free burrito or margarita or shirt
-- [ ] Kohls and world market do $5 store credit
-- [ ] Target gives an additional 5% on one entire purchase in store or online
-- [ ] Chipotle is free chips or drink or guac/queso Papa murphys gives free cinnamon wheel Red Robin gives a free burger
-- [ ] AMC does a free popcorn
-- [ ] Nothing bundt cake free mini cake
+- ==Hiro Japanese Buffet free buffet==
+- Denver zoo (free admission)
+- Culver's (free custard email)
+- Snarfs does free sandwich
+- Panera is free dessert/ bakery item
+- Starbucks is free drink
+- Dutch Bros free drink
+- Badass coffee has free drink
+- Illegal Pete's does free burrito or margarita or shirt
+- Kohls and world market do $5 store credit
+- Target gives an additional 5% on one entire purchase in store or online
+- Chipotle is free chips or drink or guac/queso Papa murphys gives free cinnamon wheel Red Robin gives a free burger
+- AMC does a free popcorn
+- Nothing bundt cake free mini cake

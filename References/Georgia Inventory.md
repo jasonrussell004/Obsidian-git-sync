@@ -1,10 +1,10 @@
-- [ ] 4 bad underwear
-- [ ] 5 good underwear
-- [ ] 5 good sock pairs
-- [ ] 1 sweatshirt
-- [ ] 1 sweatpants
-- [ ] 1 long sleeve shirt
-- [ ] 4 shorts
-- [ ] 5 good shirts
-- [ ] 3 bad shirts
-- [ ] 1 pajama pants
+- 4 bad underwear
+- 5 good underwear
+- 5 good sock pairs
+- 1 sweatshirt
+- 1 sweatpants
+- 1 long sleeve shirt
+- 4 shorts
+- 5 good shirts
+- 3 bad shirts
+- 1 pajama pants

@@ -1,12 +1,106 @@
 {
 	"nodes":[
-		{"id":"502fe5507dfe0551","type":"text","text":"PC Obsidian","x":-338,"y":-4,"width":158,"height":60,"color":"4"},
-		{"id":"df0120806a9b214c","type":"text","text":"Google Keep","x":-338,"y":100,"width":158,"height":60,"color":"4"},
-		{"id":"ab896a121bdc6ba5","type":"text","text":"Android Auto","x":-338,"y":200,"width":158,"height":60,"color":"4"},
-		{"id":"6b03adeab5513662","type":"text","text":"GitHub Backup","x":-100,"y":-4,"width":158,"height":60,"color":"5"},
-		{"id":"f9e42d238ba58962","type":"text","text":"<p align=\"center\">Your text here</p>","x":-580,"y":-4,"width":158,"height":60,"color":"5"},
-		{"id":"9eed1e8ced55cd77","type":"text","text":"Phone Obsidian","x":-580,"y":100,"width":158,"height":60,"color":"4"},
-		{"id":"b3bb60b8c22812ad","type":"text","text":"Local Backup","x":-100,"y":100,"width":158,"height":60,"color":"5"}
+		{
+			"id":"502fe5507dfe0551",
+			"type":"text",
+			"text":"PC Obsidian",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-338,
+			"y":-4,
+			"width":158,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"df0120806a9b214c",
+			"type":"text",
+			"text":"Google Keep",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-338,
+			"y":100,
+			"width":158,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"ab896a121bdc6ba5",
+			"type":"text",
+			"text":"Android Auto",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-338,
+			"y":200,
+			"width":158,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6b03adeab5513662",
+			"type":"text",
+			"text":"GitHub Backup",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-100,
+			"y":-4,
+			"width":158,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"f9e42d238ba58962",
+			"type":"text",
+			"text":"Google Drive<span class=\"cta-c\"></span><span class=\"cta-vm\"></span>",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-580,
+			"y":-4,
+			"width":158,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"9eed1e8ced55cd77",
+			"type":"text",
+			"text":"Phone Obsidian",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-580,
+			"y":100,
+			"width":158,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"b3bb60b8c22812ad",
+			"type":"text",
+			"text":"Local Backup",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-100,
+			"y":100,
+			"width":158,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"766a6a0aae560085",
+			"type":"text",
+			"text":"Cloud",
+			"styleAttributes":{"textAlign":"center","shape":"database"},
+			"x":-600,
+			"y":200,
+			"width":99,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"78545b1eee35f887",
+			"type":"text",
+			"text":"Client",
+			"styleAttributes":{"textAlign":"center","shape":"database"},
+			"x":-501,
+			"y":200,
+			"width":101,
+			"height":60,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{"id":"1c405c9847fdf57c","fromNode":"502fe5507dfe0551","fromSide":"right","toNode":"b3bb60b8c22812ad","toSide":"left"},
@@ -17,5 +111,10 @@
 		{"id":"25b08048e7fad005","fromNode":"f9e42d238ba58962","fromSide":"right","toNode":"502fe5507dfe0551","toSide":"left"},
 		{"id":"0aa1020d28d5a85c","fromNode":"f9e42d238ba58962","fromSide":"bottom","toNode":"9eed1e8ced55cd77","toSide":"top"},
 		{"id":"b5d9ca55a5bf2936","fromNode":"502fe5507dfe0551","fromSide":"right","toNode":"6b03adeab5513662","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"1bbfaefdd1326eb7"
+	}
 }
