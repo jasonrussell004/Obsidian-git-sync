@@ -1,0 +1,50 @@
+- [ ] Symptoms
+- [ ] Started about 1 year ago and has slowly gotten worse with occasional periods of remission (could be stress induced)
+- [ ] Constant bloating (gas pressure somewhere between small intestine and colon)
+- [ ] Stomach churning (noise) all day
+- [ ] Frequent belching/farting
+- [ ] Occasional week long bouts of diarrhea
+- [ ] Movement seems to help ease discomfort while sitting/laying makes it palpably increase
+- [ ] Diet cause
+- [ ] To my experience, every symptom is diet invariant (tried cutting salami, dairy? each for at least a week)
+- [ ] Tests/meds
+- [ ] Had h pylori breath test 6 months ago and that was negative
+- [ ] Dr told me to get pepcid (famotidine) for what was likely GERD -- no changes
+- [ ] Benefiber
+- [ ] Metamucil
+- [X] Lifelong problem of taking a long time to empty bowels
+- [X] Diet is somewhat low in fiber and several vitamins & minerals
+- [X] Eat very few fruits/veggies/while wheat/beans/arti.sugar
+- [X] I typically drink just under half a gallon of water per day and rarely drink anything else
+- [X] Eat fast almost everytime
+
+- [ ] Symptoms:
+- [ ] Mostly constipation and bloating (can feel some sort of digestive activity or lack thereof most of the time)
+- [ ] Started about 2 years ago and slowly got worse over the first year with occasional periods of remission (could be stress induced)
+- [ ] Rarely have bowel movements that feel complete
+- [ ] Constant bloating (gas pressure somewhere between small intestine and colon) makes me feel the need to make a bowel movement (mostly gas, sometimes solid)
+- [ ] Constant daily bloating makes it hard to tell difference between hunger and bowel activity
+- [ ] First year consisted of week long diarrhea bouts but those are no more (constipation is a bigger problem now)
+- [ ] Lifelong problem of taking 15-30 minutes to completely empty bowels
+- [ ] Treatment/testing
+- [ ] Have tried homemade probiotics (kefir) and a few diet restrictions such as dairy and processed meats
+- [ ] Have tried miralax and proton inhibitors
+- [ ] Exercise seems to help temporarily with bloating
+- [ ] Coffee has been the most impactful in a good way. Will stimulate a near-complete bowel movement a couple hours after consumption
+- [ ] Tried 400/800/1200 mg magnesium with 3 metamucil gummies
+- [ ] Tried linzess
+- [ ] Trying trulance
+- [ ] Trying anti-depressant
+- [ ] Endoscopy found some swelling in lower esophagus (heartburn related but no longer an issue)
+- [ ] Colonoscopy found some benign polyps and large intestine swelling
+- [ ] Father has Ulcerative Colitis and sister has IBS-C
+- [ ] Had h pylori breath test 6 months ago and that was negative
+- [ ] Dr told me to get pepcid (famotidine) for what was likely GERD -- no change
+- [ ] Think it could be IBS-C possibly with Crohn's
+- [ ] Cause investigation
+- [ ] Low fiber intake
+- [ ] East meals very fast
+- [ ] Exercise somewhat regularly
+- [ ] Drink plenty of water
+- [ ] Goals
+- [ ] Would like to go more extreme with prebiotics/probiotics and fiber intake solutions (have considered benefiber & metamucil)

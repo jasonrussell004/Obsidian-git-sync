@@ -1,5 +1,3 @@
-
-
 - [ ] Self love journal
 - [ ] "If I look perfect, do it perfect, work perfect, and live perfect, I can avoid or minimize shame, blame, and judgement"
 - [ ] "perfectionism is the 20 ton shield; you think it's going to protect you from being hurt, but it only protects you from being seen"

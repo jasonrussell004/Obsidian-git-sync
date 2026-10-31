@@ -1,3 +1,5 @@
+![[GoogleKeep/Gift Ideas|Gift Ideas]]
+
 ## ==For Others==
 ### Mom
 - digital picture frame

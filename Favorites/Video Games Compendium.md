@@ -18,15 +18,8 @@ Video Game Wishlist:
 - Cocoon
 - Mc legends
 - Light-year frontier
-Board Game Wishlist:
-- Search for planet x board game
-- Zendo board game
-- Shipwreck arcana board game
-- Bomb busters board game
 
 Played List
-- Board Games
-- Codenames
 - Xbox One
 - minecraft
 - GTA V

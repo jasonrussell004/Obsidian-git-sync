@@ -10,8 +10,8 @@ KeepSidianLocalBaseline: sha256:035886d6e8e25807c5d6fea318a23eafafcb228cd5304e31
 - [ ] Parmesan
 - [ ] Rice
 - [ ] Quinoa
-- [ ] Maple syrup 
-- [ ] Vanilla extract 
+- [ ] Maple syrup
+- [ ] Vanilla extract
 - [ ] Collagen
 - [ ] Windshield wipers
 - [ ] Protein powder

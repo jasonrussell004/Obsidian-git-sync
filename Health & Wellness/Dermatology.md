@@ -1,4 +1,3 @@
-
 - Cerave daily moisturizing lotion on face every morning — helps maintain
 - As a teen, I tried retina micro and epiduo/onexton — not much success
 - Doxycycline — success

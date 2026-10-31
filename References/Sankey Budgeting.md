@@ -1,5 +1,5 @@
 ### SankeyMatic Graph
-
+![[sankeymatic_20261031_005214.svg]]
 
 Salary = $106,633.80
 Monthly = $8,886.15

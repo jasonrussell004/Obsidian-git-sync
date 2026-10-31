@@ -1,3 +1,4 @@
+Played:
 - hanabi
 - Spy Alley
 - Play Nine
@@ -31,6 +32,7 @@
 - yahtzee
 - sequence
 
+Wishlist:
 - concept
 - dune
 - journey through europe
@@ -39,3 +41,7 @@
 - the farming game
 - lost cities
 - 7 wonders
+- Search for planet x
+- Zendo
+- Shipwreck arcana
+- Bomb busters
