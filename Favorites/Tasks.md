@@ -10,22 +10,22 @@
 - [ ] clean office
 - [ ] clean garage
 - [ ] vacuum
-- [ ] book flight home
+- [ ] book flight home for xmas
 - [ ] Amazon order
 - [ ] wash guest room sheets
 - [ ] place towels in guest bath
+- [ ] dentist appointment — schedule
 - [ ] Car service
 	- [ ] Oil change
 		- [ ] Call jiffy lube & grease monkey for pricing
 	- [ ] Fix seatbelt pretensioner
 	- [ ] Car wash
 ### Unimportant
-- [ ] Get Total wine app and merge accounts
+- [ ] Get Total wine app and merge accounts — might need to call them
 - [ ] Message Robinhood for reimbursement (2x$75) for IRA transfer
 - [ ] Email Andrew about logistics of moving property tax and home insurance off loan
 - [ ] Sam's credit card (call)
 	- [ ] +1-866-419-4096
-- [ ] Call city water for latest particle study
 - [ ] Investigate personal travel insurance through work
 - [ ] Sell Skis & boots
 - [ ] Roth IRA to SCHG

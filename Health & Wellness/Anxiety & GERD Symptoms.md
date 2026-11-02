@@ -20,6 +20,7 @@
 	- unable to concentrate on work
 	- some of the pain subsides if I can distract myself
 	- constant gas pressure in stomach that requires frequent belching or burping to feel better
+	- lump in my throat with some correlation to frequent loogies
 - Have seen a counselor through work EAP program 2 times and that combined with deep conversations with friends and family has started to get me back on track
 - working nearly full days now and able to eat most foods
 - bloating, lump in throat, and acid burning esophagus up to the back of mouth are the biggest remaining symptoms
