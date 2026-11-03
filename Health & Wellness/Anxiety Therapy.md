@@ -73,4 +73,5 @@
 	- nose picking
 	- beard picking
 	- mustache biting
+- How to stop projecting my thoughts and feelings onto other people
 -

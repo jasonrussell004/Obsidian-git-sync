@@ -24,6 +24,7 @@
 - Shuffleboard
 - Billiards
 - Colorado train for sightseeing
+	- https://www.explore.com/2297860/colorado-mountain-rail-new-year-round-train-scenic-round-trip-journey-denver-rockies/
 
 ### Dates
 - Escape room

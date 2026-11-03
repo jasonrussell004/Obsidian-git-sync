@@ -1,5 +1,6 @@
 - TV shows to watch
 	- Crazy Rich Asians TV show
+	- Star Trek Starfleet Academy
 	- Lost
 	- Asteroid city
 	- Star trek next gen
@@ -230,6 +231,7 @@
 	- Contagion
 	- Cloverfield Paradox
 	- Jack Ryan: shadow recruit
+	- resident alien
 - 6
 	- The last duel
 	- Resident Evil (2026)
@@ -239,10 +241,7 @@
 	- Ballerina
 	- The menu
 	- Gattaca
-	- The Change-Up
-	- Catch me if you can
 	- Superhero Movie
-	- resident alien
 	- Adam project
 	- Ambulance
 	- Foundation
@@ -293,6 +292,8 @@
 	- Silver Lining Playbook
 	- Ghost in the Shell
 	- A Quiet Place
+	- The Change-Up
+	- Catch me if you can
 - 5
 	- Tron
 	- Unabomber

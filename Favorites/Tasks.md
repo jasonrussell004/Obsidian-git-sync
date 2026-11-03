@@ -22,7 +22,6 @@
 	- [ ] Car wash
 ### Unimportant
 - [ ] Get Total wine app and merge accounts — might need to call them
-- [ ] Message Robinhood for reimbursement (2x$75) for IRA transfer
 - [ ] Email Andrew about logistics of moving property tax and home insurance off loan
 - [ ] Sam's credit card (call)
 	- [ ] +1-866-419-4096
