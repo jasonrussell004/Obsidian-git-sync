@@ -13,7 +13,8 @@
 # For Me
 - Floor lamp for guest bedroom
 - Nightstand for guest bedroom
-- All-weather tires
+- souper cubes
+- All-weather tires (all-terrain?)
 - Theragun
 - Cerave hydration cleanser or foaming
 - JBL speaker

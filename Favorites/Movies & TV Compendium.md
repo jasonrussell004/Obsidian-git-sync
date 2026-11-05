@@ -12,7 +12,6 @@
 	- Andor
 	- Severance
 	- Invasion
-	- The man in the high Castle
 	- Picard
 	- The expanse
 	- the boys
@@ -296,6 +295,7 @@
 	- Catch me if you can
 - 5
 	- Tron
+	- The man in the high Castle
 	- Unabomber
 	- Backrooms
 	- Sheep Detective

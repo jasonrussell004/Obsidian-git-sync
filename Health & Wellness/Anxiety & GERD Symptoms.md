@@ -31,9 +31,11 @@
 - used to take famotidine for GERD symptoms a long time ago and recently, but it didn't seem to help either time
 
 - Have IBS-C and high anxiety but no other related medical history
-- My leading theories by order of likelihood are: severe anxiety (work, health, social stagnation), severe GERD, and/or a hiatal hernia
+- My leading theories by order of likelihood are: just anxiety (work, health, social stagnation), GERD, a hua
 - thought it might be a caffeine or food intolerance but I think we can rule those out
 - have taken Advil only a few times to mange pain
 - switched to Tylenol since urgent care visit, but not taking regularly
 
-- 20 mg propranolol 3 times as needed
+- 20 mg propranolol 3 times a day as needed
+
+- consider antidepressants as a way to heal the gut brain connection
