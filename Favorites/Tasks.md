@@ -2,7 +2,6 @@
 
 
 ### Important
-- [ ] wash paneers
 - [ ] clean room
 - [ ] clean living room
 - [ ] clean kitchen
@@ -10,6 +9,7 @@
 - [ ] clean office
 - [ ] clean garage
 - [ ] vacuum
+- [ ] investigate keep sync issue
 - [ ] book flight home for xmas
 - [ ] Amazon order
 - [ ] wash guest room sheets
