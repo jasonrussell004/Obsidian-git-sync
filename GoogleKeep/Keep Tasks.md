@@ -1,10 +1,14 @@
 ---
 GoogleKeepCreatedDate: 2026-10-30T05:52:24.304000+00:00
-GoogleKeepUpdatedDate: 2026-10-30T05:53:37.435000+00:00
+GoogleKeepUpdatedDate: 2026-11-06T14:28:38.415000+00:00
 GoogleKeepUrl: https://keep.google.com/#NOTE/1Dz_h65js8V6tM1ULVmvh78ZPo_ega0EOkHzoGz2R4C5Y03_-uwDj4Lbr3W0qdOY
-KeepSidianLastSyncedDate: 2026-10-30T05:54:27.598Z
-KeepSidianRemoteBaseline: sha256:df34eff1549db5049cc4d03842f3c00bc513772c4e8ec4efbca000a3af042ea9
-KeepSidianRemoteRevision: keep-v1:365319aa919328a9d206f73607f5ecedd48bce65baf7d9ed5d7df63975b31e95
-KeepSidianLocalBaseline: sha256:a9b64f708f72f60df675392e70c39528923dd05f4e881b6c01c91b3f4c923fe7
+KeepSidianLastSyncedDate: 2026-11-07T03:07:11.340Z
+KeepSidianPendingUpload: true
+KeepSidianRemoteBaseline: sha256:5f0333f661cc6bcf23839729e067b298e8a252f066e4776cc9fab49ef32c0a55
+KeepSidianRemoteRevision: keep-v1:7dc8c50e5bfcaf7dc518bcb04684ca9041554205569c668d1053d4d71352d5d8
+KeepSidianLocalBaseline: sha256:a043fb747240f2738d8c0fe7dab9ee453aad0ce824f066f7be5fd4651fdc2be2
 ---
 - [ ] Call Sam's about credit card application issue & Walmart account linked to Sam's account
+- [ ] Pickemetrics 
+  - [ ] Automate Vegas Line
+  - [ ] W-L-T record in form
