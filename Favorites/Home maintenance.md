@@ -3,11 +3,13 @@
 ### Important
 - [ ] strike plates (need 22 screws)
 	- [ ] 7 interior
-		- [ ] Have 6x 1 1/2 inch flat head wood screws
-		- [ ] Previously used 3/4 inch brass screws
+		- [ ] Have 6x 1-1/2 inch flat head drywall screws
+		- [ ] Previously used 3/4 inch brass wood screws
 	- [ ] 2 exterior + 2 deadbolt plates
+- [ ] garage door hinge (need 12 screws)
+	- [ ] previously used #8 2-1/2 inch flat head drywall screws
+	- [ ] https://share.google/aimode/hUBLK0kXfR1CL3isJ
 - [ ] posters
-- [ ] garage door hinge
 - [ ] bathroom patching
 - [ ] bathroom hanging
 - [ ] hot water bidet

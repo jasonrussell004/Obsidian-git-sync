@@ -25,7 +25,6 @@
 - [ ] Email Andrew about logistics of moving property tax and home insurance off loan
 - [ ] Sam's credit card (call)
 	- [ ] +1-866-419-4096
-- [ ] Investigate personal travel insurance through work
 - [ ] Sell Skis & boots
 - [ ] Roth IRA to SCHG
 - [ ] Trad IRA to FTEC
