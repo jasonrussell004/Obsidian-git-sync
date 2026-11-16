@@ -74,4 +74,8 @@
 	- beard picking
 	- mustache biting
 - How to stop projecting my thoughts and feelings onto other people
--
+
+
+- numbness is a sign of a bad help
+- spend more time processing emotions
+
