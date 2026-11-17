@@ -1,5 +1,13 @@
-- November 16 2026 — I was able to eat and not dislike a pasta with red sauce
-	- attended therapy session and have a path forward
-- November 15 2026 — I didn't get upset with myself for breaking a mason jar by accident
-- November 14 2026 — completed the base game of outer wilds after 6 year
-- November 12 2026 — talked with 
+- November 12 2026
+- talked with Dan about anxiety at performance review and he was very receptive
+- didnt need propranolol for performance review
+- November 13 2026
+- was able to cover for Dan at apex meeting without feeling anxious
+- November 14 2026
+- had free time to organize most of my unresolved dev code at work
+- November 15 2026
+- had free time to complete the base game of outer wilds after 6 year
+- November 16 2026
+- I was able to eat and not dislike a pasta with red sauce
+- attended therapy session and have a path forward
+- I didn't get upset with myself for breaking a mason jar by accident
