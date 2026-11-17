@@ -1,3 +1,5 @@
 - November 16 2026 — I was able to eat and not dislike a pasta with red sauce
+	- attended therapy session and have a path forward
 - November 15 2026 — I didn't get upset with myself for breaking a mason jar by accident
 - November 14 2026 — completed the base game of outer wilds after 6 year
+- November 12 2026 — talked with 

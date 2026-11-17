@@ -79,3 +79,4 @@
 - numbness is a sign of a bad help
 - spend more time processing emotions
 
+- need to get better at making hard decisions and being comfortable with them
