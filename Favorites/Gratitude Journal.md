@@ -11,3 +11,7 @@
 - I was able to eat and not dislike a pasta with red sauce
 - attended therapy session and have a path forward
 - I didn't get upset with myself for breaking a mason jar by accident
+- November 17 2026
+- I met new kind people playing pickleball — Gary, Jay, Jules, Kevin*, Tom, Ozzie, Siri*, Ulysses, Jessica
+- I'm healthy enough to play pickleball
+- I have a PC that lets me play new games with friends
