@@ -12,10 +12,10 @@
 - attended therapy session and have a path forward
 - I didn't get upset with myself for breaking a mason jar by accident
 - November 17 2026
-- I met new kind people playing pickleball — Gary, Jay, Jules, Kevin*, Tom, Ozzie, Siri*, Ulysses, Jessica, Johannes
+- I met new kind people playing pickleball — Gary!, Jay, Jules/Julie, Kevin*, Tom, Ozzie, Siri*, Ulysses, Jessica, Yohan, Ming, Ben#, Myles#, Mark, Elizabeth, Rowan, Kaitlyn
 - I'm healthy enough to play pickleball
 - I have a PC that lets me play new games with friends
 - November 18 2026
 - AI helps me with difficult tasks
 - I can work from home
-- 
+-
