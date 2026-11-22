@@ -1,0 +1,10 @@
+- [ ] Hike
+    - [ ] mount falcon park
+    - [ ] jackass hill park
+- [ ] walk Littleton
+- [ ] Hudson gardens
+	- [ ] Xmas lights
+- [ ] Littleton museum
+- [ ] pickleball
+- [ ] chocolate therapist
+- [ ] christkindle market

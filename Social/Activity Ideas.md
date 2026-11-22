@@ -32,3 +32,4 @@
 - Theme park
 - Trivia
 - Zoo/botanical garden
+- cooking

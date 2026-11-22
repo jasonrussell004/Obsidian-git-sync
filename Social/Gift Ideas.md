@@ -13,6 +13,7 @@
 # For Me
 - Floor lamp for guest bedroom
 - Nightstand for guest bedroom
+- jiggy puzzles
 - souper cubes
 - All-weather tires (all-terrain?)
 - Theragun
