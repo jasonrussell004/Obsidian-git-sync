@@ -7,3 +7,4 @@
 - [ ] Cooking club
 - [ ] Hiking club
 - [ ] Book club?
+- [ ] GT alumni club
